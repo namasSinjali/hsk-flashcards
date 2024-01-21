@@ -1,5 +1,5 @@
 chars = {}
-with open('hsk4.txt', encoding='utf-8') as hsk,  open("out.txt", 'w', encoding='utf-8') as out:
+with open('new-words.txt', encoding='utf-8') as hsk,  open("out.txt", 'w', encoding='utf-8') as out:
     lines = hsk.readlines()
     for line in lines:
         if line.startswith('//'):
