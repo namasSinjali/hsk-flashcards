@@ -1,0 +1,3132 @@
+﻿//Remembering Simplified Hanzi/RSH1_01
+一	yī	[1] one
+二	èr	[2] two
+三	sān	[3] three
+四	sì	[4] four
+五	wǔ	[5] five
+六	liù	[6] six
+七	qī	[7] seven
+八	bā	[8] eight
+九	jiǔ	[9] nine
+十	shí	[10] ten
+口	kǒu	[11] mouth
+日	rì	[12] day
+月	yuè	[13] month
+田	tián	[14] rice field
+目	mù	[15] eye
+//Remembering Simplified Hanzi/RSH1_02
+古	gǔ	[16] ancient
+胡	hú	[17] recklessly
+叶	yè	[18] leaf
+吾	wú	[19] I (literary)
+朋	péng	[20] companion
+明	míng	[21] bright
+唱	chàng	[22] sing
+晶	jīng	[23] sparkling
+品	pǐn	[24] goods
+昌	chāng	[25] prosperous
+早	zǎo	[26] early
+旭	xù	[27] rising sun
+世	shì	[28] generation
+胃	wèi	[29] stomach
+旦	dàn	[30] daybreak
+凹	āo	[31] concave
+凸	tū	[32] convex
+//Remembering Simplified Hanzi/RSH1_03
+自	zì	[33] oneself
+白	bái	[34] white
+百	bǎi	[35] hundred
+皂	zào	[36] soap
+旧	jiù	[37] old
+中	zhōng	[38] middle (n. / adj.)
+千	qiān	[39] thousand
+舌	shé	[40] tongue
+升	shēng	[41] liter
+丸	wán	[42] pill
+卜	bǔ	[43] divination
+占	zhān	[44] tell fortunes
+上	shàng	[45] above
+下	xìa	[46] below
+卡	kǎ	[47] card
+卓	zhuó	[48] eminent
+朝	cháo	[49] dynasty
+嘲	cháo	[50] ridicule (v.)
+//Remembering Simplified Hanzi/RSH1_04
+只	zhǐ	[51] only
+贝	bèi	[52] shellfish (v.)
+贴	tiē	[53] paste
+贞	zhēn	[54] chaste
+员	yuán	[55] employee
+儿	ér	[56] youngster
+几	jǐ	[57] how many?
+见	jiàn	[58] see
+元	yuán	[59] beginning
+页	yè	[60] page
+顽	wán	[61] stubborn
+凡	fán	[62] ordinary
+肌	jī	[63] muscle
+负	fù	[64] defeated (adj.)
+万	wàn	[65] ten thousand
+匀	yún	[66] uniform (adj.)
+句	jù	[67] sentence (n.)
+旬	xún	[68] decameron
+勺	sháo	[69] ladle
+的	de	[70] bull's eye
+首	shǒu	[71] heads
+//Remembering Simplified Hanzi/RSH1_05
+直	zhí	[72] straight
+置	zhì	[73] set up
+具	jù	[74] tool
+真	zhēn	[75] true
+工	gōng	[76] work (n.)
+左	zuǒ	[77] left (n. / adj.)
+右	yòu	[78] right (n. / adj.)
+有	yǒu	[79] possess
+贿	huì	[80] bribe (n.)
+贡	gòng	[81] tribute
+项	xiàng	[82] item
+刀	dāo	[83] sword
+刃	rèn	[84] blade
+切	qiē	[85] cut (v.)
+召	zhào	[86] summon
+昭	zhāo	[87] evident
+则	zé	[88] rule (n.)
+副	fù	[89] vice-
+丁	dīng	[90] fourth
+叮	dīng	[91] sting (v.)
+可	kě	[92] can (aux. v.)
+哥	gē	[93] older brother
+顶	dǐng	[94] crest
+//Remembering Simplified Hanzi/RSH1_06
+乙	yǐ	[95] second (adj.)
+飞	fēi	[96] fly (v.)
+子	zǐ	[97] child
+孔	kǒng	[98] cavity
+吼	hǒu	[99] roar (v.)
+乱	luàn	[100] chaos
+了	le	[101] (-ed)
+女	nǚ	[102] woman
+好	hǎo	[103] good
+如	rú	[104] be like
+母	mǔ	[105] mother
+贯	guàn	[106] pierce
+兄	xiōng	[107] elder brother
+克	kè	[108] overcome (v.)
+//Remembering Simplified Hanzi/RSH1_07
+小	xiǎo	[109] small
+少	shǎo	[110] few
+吵	chǎo	[111] noisy
+孙	sūn	[112] grandchild
+大	dà	[113] large
+尖	jiān	[114] tip (n.)
+夕	xī	[115] evening
+多	duō	[116] many
+够	gòu	[117] enough
+外	wài	[118] outside
+名	míng	[119] name (n.)
+罗	luó	[120] silk gauze
+厂	chǎng	[121] factory
+厅	tīng	[122] hall
+厉	lì	[123] stern
+厚	hòu	[124] thick
+石	shí	[125] stone
+砂	shā	[126] gravel
+妙	miào	[127] wonderful
+肖	xiào	[128] resemble
+削	xiāo	[129] peel (v.)
+光	guāng	[130] ray
+太	tài	[131] overly
+省	shěng	[132] economize
+奇	qí	[133] strange
+//Remembering Simplified Hanzi/RSH1_08
+川	chuān	[134] stream (n.)
+州	zhōu	[135] state (n.)
+顺	shùn	[136] obey
+水	shuǐ	[137] water (n.)
+永	yǒng	[138] eternity
+脉	mài	[139] blood vessels
+求	qiú	[140] request (v.)
+泉	quán	[141] spring (n.)
+原	yuán	[142] flatlands
+泳	yǒng	[143] swim
+洲	zhōu	[144] continent
+沼	zhǎo	[145] marsh
+沙	shā	[146] sand (n.)
+江	jiāng	[147] Yangtze
+汁	zhī	[148] juice (n.)
+潮	cháo	[149] tide
+源	yuán	[150] source
+活	huó	[151] lively
+消	xiāo	[152] extinguish
+河	hé	[153] river
+鱼	yú	[154] fish (n.)
+渔	yú	[155] fishing (n.)
+湖	hú	[156] lake
+测	cè	[157] fathom (v.)
+土	tǔ	[158] soil (n.)
+均	jūn	[159] equal
+肚	dù	[160] belly
+尘	chén	[161] dust
+填	tián	[162] fill in
+吐	tǔ	[163] spit (v.)
+压	yā	[164] pressure (n.)
+哇	wā	[165] waaah!
+寸	cùn	[166] Chinese inch
+封	fēng	[167] seal (v.)
+时	shí	[168] time
+寺	sì	[169] Buddhist temple
+火	huǒ	[170] fire (n.)
+灭	miè	[171] destroy
+灰	huī	[172] ashes
+烦	fán	[173] vexed (adj.)
+炎	yán	[174] inflammation
+淡	dàn	[175] thin (adj.)
+灯	dēng	[176] lamp
+点	diǎn	[177] spot (n.)
+照	zhào	[178] illuminate
+//Remembering Simplified Hanzi/RSH1_09
+里	lǐ	[179] li
+量	liàng	[180] quantity
+埋	mái	[181] bury
+黑	hēi	[182] black
+墨	mò	[183] black ink
+冒	mào	[184] risk (v.)
+同	tóng	[185] same
+洞	dòng	[186] cave
+丽	lì	[187] lovely
+向	xiàng	[188] orientation
+响	xiǎng	[189] echo (n.)
+尚	shàng	[190] esteem (v.)
+字	zì	[191] character
+守	shǒu	[192] guard (v.)
+完	wán	[193] finish (v.)
+灾	zāi	[194] disaster
+宣	xuān	[195] proclaim
+宵	xiāo	[196] nighttime
+安	ān	[197] peaceful
+宴	yàn	[198] banquet
+寄	jì	[199] mail (v.)
+富	fù	[200] wealthy
+贮	zhù	[201] store up
+//Remembering Simplified Hanzi/RSH1_10
+木	mù	[202] tree
+林	lín	[203] woods
+森	sēn	[204] forest
+梦	mèng	[205] dream (n.)
+机	jī	[206] machine
+植	zhí	[207] plant (v.)
+杏	xìng	[208] apricot
+呆	dāi	[209] dim-witted
+枯	kū	[210] withered
+村	cūn	[211] village
+相	xiāng	[212] one another
+本	běn	[213] notebook
+案	àn	[214] case
+未	wèi	[215] not yet
+末	mò	[216] last (n. / adj.)
+沫	mò	[217] foam
+味	wèi	[218] flavor (n.)
+妹	mèi	[219] younger sister
+查	chá	[220] investigate
+渣	zhā	[221] sediment
+染	rǎn	[222] dye (v.)
+李	lǐ	[223] plum
+桌	zhuō	[224] table
+杂	zá	[225] miscellaneous
+若	ruò	[226] as if
+草	cǎo	[227] grass
+艺	yì	[228] technique
+苦	kǔ	[229] suffering (n.)
+宽	kuān	[230] wide
+莫	mò	[231] nobody
+模	mó	[232] imitate
+漠	mò	[233] desert (n.)
+墓	mù	[234] grave
+苗	miáo	[235] seedling
+瞄	miáo	[236] aim
+//Remembering Simplified Hanzi/RSH1_11
+兆	zhào	[237] portent
+桃	táo	[238] peach
+犬	quǎn	[239] pooch
+尤	yóu	[240] remarkable
+厌	yàn	[241] detest
+状	zhuàng	[242] state of affairs
+妆	zhuāng	[243] put on makeup
+将	jiàng	[244] General
+获	huò	[245] seize
+默	mò	[246] silent
+然	rán	[247] sort of thing
+哭	kū	[248] cry (v.)
+器	qì	[249] utensil
+臭	chòu	[250] stinking (adj.)
+狗	gǒu	[251] dog
+牛	niú	[252] cow
+特	tè	[253] special (adj.)
+告	gào	[254] declare
+浩	hào	[255] vast
+先	xiān	[256] before
+洗	xǐ	[257] wash (v.)
+//Remembering Simplified Hanzi/RSH1_12
+个	gè	[258] individual
+介	jiè	[259] introduce
+界	jiè	[260] world
+茶	chá	[261] tea
+合	hé	[262] fit (v.)
+哈	hā	[263] ha!
+塔	tǎ	[264] pagoda
+王	wáng	[265] king
+玉	yù	[266] jade
+宝	bǎo	[267] treasure (n.)
+球	qiú	[268] ball
+现	xiàn	[269] present (adj.)
+玩	wán	[270] play (v.)
+狂	kuáng	[271] crazy
+皇	huáng	[272] emperor
+煌	huáng	[273] resplendent
+呈	chéng	[274] submit
+全	quán	[275] whole
+理	lǐ	[276] logic
+主	zhǔ	[277] lord
+注	zhù	[278] pour
+金	jīn	[279] gold
+钟	zhōng	[280] bell
+铜	tóng	[281] copper
+钓	diào	[282] go fishin'
+针	zhēn	[283] needle (n.)
+钉	dīng	[284] nail (n.)
+铭	míng	[285] inscription
+镇	zhèn	[286] at ease
+//Remembering Simplified Hanzi/RSH1_13
+道	dào	[287] way
+达	dá	[288] reach (v.)
+远	yuǎn	[289] distant
+适	shì	[290] suitable
+过	guò	[291] cross (v.)
+迈	mài	[292] stride
+迅	xùn	[293] speedy
+造	zào	[294] create
+逃	táo	[295] escape (v.)
+巡	xún	[296] patrol (v.)
+选	xuǎn	[297] choose
+逊	xùn	[298] modest
+逛	guàng	[299] stroll
+车	chē	[300] car
+连	lián	[301] one after another
+莲	lián	[302] lotus
+前	qián	[303] in front
+剪	jiǎn	[304] shears
+输	shū	[305] transport
+逾	yú	[306] exceed
+条	tiáo	[307] strip (n.)
+处	chù	[308] location
+各	gè	[309] each
+格	gé	[310] pattern
+略	lüè	[311] abbreviation
+客	kè	[312] guest
+额	é	[313] forehead
+夏	xià	[314] summer
+洛	luò	[315] L.A.
+落	luò	[316] fall
+备	bèi	[317] prepare
+//Remembering Simplified Hanzi/RSH1_14
+冗	rǒng	[318] superfluous
+沉	chén	[319] profound
+军	jūn	[320] army
+辉	huī	[321] radiance
+冠	guān	[322] crown
+坑	kēng	[323] pit (n.)
+亩	mǔ	[324] Chinese acre
+高	gāo	[325] tall
+享	xiǎng	[326] enjoy
+熟	shú	[327] ripe
+亭	tíng	[328] pavilion
+亮	liàng	[329] shiny
+京	jīng	[330] capital
+景	jǐng	[331] scenery
+就	jiù	[332] at once
+周	zhōu	[333] circumference
+士	shì	[334] soldier
+吉	jí	[335] lucky
+壮	zhuàng	[336] robust
+//Remembering Simplified Hanzi/RSH1_15
+学	xué	[337] study (v.)
+觉	jué	[338] senses (n.)
+攻	gōng	[339] attack
+敌	dí	[340] enemy
+败	bài	[341] fail
+故	gù	[342] deliberately
+救	jiù	[343] rescue (v.)
+敬	jìng	[344] revere
+敞	chǎng	[345] spacious
+言	yán	[346] say
+警	jǐng	[347] police (n.)
+计	jì	[348] plan (n.)
+让	ràng	[349] yield (n.)
+狱	yù	[350] prison
+讨	tǎo	[351] condemn
+训	xùn	[352] instruction
+识	shí	[353] knowledge
+话	huà	[354] talk (n.)
+诗	shī	[355] poem
+语	yǔ	[356] language
+调	diào	[357] tune (n.)
+谈	tán	[358] discuss
+//Remembering Simplified Hanzi/RSH1_16
+式	shì	[359] style (n.)
+试	shì	[360] test
+戈	gē	[361] halberd
+战	zhàn	[362] war
+划	huá	[363] scratch (v.)
+或	huò	[364] or
+贼	zéi	[365] burglar
+载	zài	[366] laden
+茂	mào	[367] lush
+成	chéng	[368] turn into
+城	chéng	[369] city
+诚	chéng	[370] sincere
+威	wēi	[371] might (n.)
+咸	xián	[372] salty
+钱	qián	[373] coin (n.)
+浅	qiǎn	[374] shallow
+贱	jiàn	[375] cheap
+尧	Yáo	[376] Yao
+烧	shāo	[377] fever
+晓	xiǎo	[378] dawn
+//Remembering Simplified Hanzi/RSH1_17
+止	zhǐ	[379] stop (v.)
+步	bù	[380] footstep
+涉	shè	[381] ford (v.)
+频	pín	[382] repeatedly
+肯	kěn	[383] agree
+企	qǐ	[384] look forward to
+武	wǔ	[385] military (adj.)
+赋	fù	[386] levy (n.)
+正	zhèng	[387] correct (v. / adj.)
+证	zhèng	[388] evidence
+政	zhèng	[389] politics
+定	dìng	[390] settle on
+走	zǒu	[391] walk
+超	chāo	[392] transcend
+越	yuè	[393] surpass
+是	shì	[394] be
+题	tí	[395] topic
+延	yán	[396] prolong
+诞	dàn	[397] nativity
+建	jiàn	[398] build
+楚	chǔ	[399] clear (adj.)
+//Remembering Simplified Hanzi/RSH1_18
+衣	yī	[400] clothing
+裁	cái	[401] tailor (v.)
+装	zhuāng	[402] attire (n.)
+哀	āi	[403] grief
+袁	yuán	[404] Yuan
+初	chū	[405] elementary
+补	bǔ	[406] patch (v.)
+衬	chèn	[407] inner garments
+农	nóng	[408] agriculture
+浓	nóng	[409] concentrated
+巾	jīn	[410] towel
+帅	shuài	[411] commander
+师	shī	[412] teacher
+狮	shī	[413] lion
+布	bù	[414] cloth
+帜	zhì	[415] streamer
+帽	mào	[416] hat
+幕	mù	[417] curtain
+棉	mián	[418] cotton
+市	shì	[419] market (n.)
+肺	fèi	[420] lungs
+带	dài	[421] sash
+滞	zhì	[422] stagnant
+刺	cì	[423] thorn
+制	zhì	[424] system
+雨	yǔ	[425] rain
+雷	léi	[426] thunder (n.)
+霜	shuāng	[427] frost
+云	yún	[428] cloud
+运	yùn	[429] carry
+冰	bīng	[430] ice
+况	kuàng	[431] situation
+冲	chōng	[432] collide
+减	jiǎn	[433] reduce
+凉	liáng	[434] cool
+冬	dōng	[435] winter
+天	tiān	[436] heavens
+吴	wú	[437] Wu
+娱	yú	[438] amusement
+误	wù	[439] error
+夭	yāo	[440] die young
+乔	qiáo	[441] pretend
+桥	qiáo	[442] bridge
+娇	jiāo	[443] attractive
+立	lì	[444] standing up (adj.)
+泣	qì	[445] weep
+站	zhàn	[446] station (n.)
+章	zhāng	[447] chapter
+竞	jìng	[448] compete
+帝	dì	[449] sovereign (n.)
+童	tóng	[450] juvenile (n.)
+商	shāng	[451] salesman
+滴	dī	[452] drip (v.)
+匕	bǐ	[453] ancient spoon
+北	běi	[454] north
+背	bèi	[455] back (n.)
+比	bǐ	[456] compare
+昆	kūn	[457] descendants
+混	hùn	[458] mix (v.)
+皆	jiē	[459] all
+此	cǐ	[460] this (literary)
+些	xiē	[461] somewhat
+它	tā	[462] it
+旨	zhǐ	[463] purpose
+脂	zhī	[464] grease
+论	lùn	[465] theory
+轮	lún	[466] wheel
+每	měi	[467] every
+梅	méi	[468] small plum
+海	hǎi	[469] sea
+乞	qǐ	[470] beg
+吃	chī	[471] eat
+复	fù	[472] duplicate (v.)
+腹	fù	[473] abdomen
+欠	qiàn	[474] lack (v.)
+吹	chuī	[475] blow (v.)
+歌	gē	[476] song
+软	ruǎn	[477] soft
+次	cì	[478] next
+资	zī	[479] assets
+姿	zī	[480] looks (n.)
+咨	zī	[481] consult with
+//Remembering Simplified Hanzi/RSH1_19
+赔	péi	[482] compensate
+培	péi	[483] cultivate
+音	yīn	[484] sound
+暗	àn	[485] dark
+韵	yùn	[486] rhyme (n.)
+竟	jìng	[487] unexpectedly
+镜	jìng	[488] mirror
+境	jìng	[489] boundary
+亡	wáng	[490] deceased (adj.)
+盲	máng	[491] blind (adj.)
+妄	wàng	[492] absurd (adj.)
+望	wàng	[493] expect
+方	fāng	[494] direction
+妨	fáng	[495] hinder
+放	fàng	[496] release (v.)
+激	jī	[497] excite
+旁	páng	[498] side (n.)
+兑	duì	[499] convert (v.)
+脱	tuō	[500] undress
+说	shuō	[501] speak
+曾	céng	[502] formerly
+增	zēng	[503] increase (v.)
+赠	zèng	[504] make a present of
+//Remembering Simplified Hanzi/RSH1_20
+也	yě	[505] also
+她	tā	[506] she
+地	dì	[507] ground (n.)
+池	chí	[508] pond
+虫	chóng	[509] insect
+虾	xiā	[510] shrimp
+独	dú	[511] alone
+虽	suī	[512] although
+蛇	shé	[513] serpent
+蛋	dàn	[514] egg
+己	jǐ	[515] self
+起	qǐ	[516] begin
+改	gǎi	[517] alter
+记	jì	[518] remember
+已	yǐ	[519] already
+包	bāo	[520] wrap (v.)
+泡	pào	[521] bubbles
+导	dǎo	[522] guide (v.)
+顾	gù	[523] look back
+逐	zhú	[524] pursue
+家	jiā	[525] house (n.)
+场	chǎng	[526] site
+汤	tāng	[527] soup
+羊	yáng	[528] sheep
+美	měi	[529] beautiful
+洋	yáng	[530] ocean
+鲜	xiān	[531] fresh
+样	yàng	[532] appearance
+兰	lán	[533] orchid
+烂	làn	[534] spoiled
+差	chà	[535] fall short of
+着	zhe	[536] -ing
+养	yǎng	[537] raise (v.)
+集	jí	[538] gather
+准	zhǔn	[539] standard (n.)
+谁	shéi	[540] who?
+售	shòu	[541] vend
+午	wǔ	[542] noon
+许	xǔ	[543] permit (v.)
+羽	yǔ	[544] feathers
+习	xí	[545] learn
+翔	xiáng	[546] soar
+//Remembering Simplified Hanzi/RSH1_21
+困	kùn	[547] trapped
+固	gù	[548] solid
+国	guó	[549] country
+圆	yuán	[550] round
+因	yīn	[551] cause (n.)
+烟	yān	[552] smoke (n.)
+园	yuán	[553] park (n.)
+回	huí	[554] return (v.)
+图	tú	[555] picture (n.)
+广	guǎng	[556] extensive
+店	diàn	[557] store (n.)
+库	kù	[558] warehouse
+裤	kù	[559] trousers
+床	chuáng	[560] bed
+麻	má	[561] hemp
+庄	zhuāng	[562] hamlet
+心	xīn	[563] heart
+忘	wàng	[564] forget
+忍	rěn	[565] endure
+总	zǒng	[566] general (adj.)
+态	tài	[567] attitude
+志	zhì	[568] aspiration
+思	sī	[569] consider
+恩	ēn	[570] kindness
+愿	yuàn	[571] wish (n.)
+意	yì	[572] idea
+想	xiǎng	[573] think
+息	xī	[574] breath
+恐	kǒng	[575] fear (v.)
+感	gǎn	[576] feel (v.)
+憾	hàn	[577] regret (n.)
+忧	yōu	[578] worried
+惊	jīng	[579] startled
+怕	pà	[580] dread (v.)
+忙	máng	[581] busy (adj.)
+惯	guàn	[582] accustomed to
+必	bì	[583] certainly
+//Remembering Simplified Hanzi/RSH1_22
+手	shǒu	[584] hand
+看	kàn	[585] look at
+摩	mó	[586] rub
+拿	ná	[587] hold (v.)
+我	wǒ	[588] I
+抱	bào	[589] embrace (v.)
+抗	kàng	[590] combat (v.)
+批	pī	[591] criticize
+招	zhāo	[592] beckon
+打	dǎ	[593] strike (v.)
+指	zhǐ	[594] finger (n.)
+持	chí	[595] support (v.)
+担	dàn	[596] assume
+括	kuò	[597] include
+提	dī	[598] bring up
+挥	huī	[599] brandish
+推	tuī	[600] push
+搅	jiǎo	[601] stir (v.)
+执	zhí	[602] clench
+热	rè	[603] heat (n. / v.)
+接	jiē	[604] welcome (v.)
+挂	guà	[605] hang
+按	àn	[606] press down on
+掉	diào	[607] drop (v.)
+拉	lā	[608] pull
+啦	la	[609] !!
+找	zhǎo	[610] look for
+无	wú	[611] nothing
+抚	fǔ	[612] comfort (v.)
+开	kāi	[613] open (v.)
+研	yán	[614] grind away (v.)
+弄	nòng	[615] play with
+异	yì	[616] different
+鼻	bí	[617] nose
+刑	xíng	[618] punishment
+型	xíng	[619] mold (v.)
+才	cái	[620] genius
+财	cái	[621] riches
+团	tuán	[622] troupe
+存	cún	[623] deposit (v.)
+在	zài	[624] at
+乃	nǎi	[625] only then
+奶	nǎi	[626] milk (n.)
+及	jí	[627] catch up with
+吸	xī	[628] inhale
+极	jí	[629] extreme (n.)
+史	shǐ	[630] history
+更	gèng	[631] even more
+硬	yìng	[632] hard
+又	yòu	[633] again
+圣	shèng	[634] holy
+友	yǒu	[635] friend
+双	shuāng	[636] pair
+汉	hàn	[637] Han
+戏	xì	[638] frolic (v.)
+观	guān	[639] observe
+欢	huān	[640] joyous
+怪	guài	[641] peculiar
+对	duì	[642] that's right
+树	shù	[643] timber
+难	nán	[644] difficult
+摊	tān	[645] vendor's stand
+投	tóu	[646] throw (v.)
+没	méi	[647] not have
+设	shè	[648] establish (v.)
+股	gǔ	[649] thigh
+支	zhī	[650] offshoot
+技	jì	[651] skill
+枝	zhī	[652] branch
+叔	shū	[653] uncle
+督	dū	[654] superintend
+寂	jì	[655] lonely
+反	fǎn	[656] against
+板	bǎn	[657] plank
+返	fǎn	[658] go back
+后	hòu	[659] behind
+质	zhì	[660] quality
+派	pài	[661] faction
+乐	yuè	[662] music
+爪	zhǎo	[663] claw (n.)
+抓	zhuā	[664] grab
+采	cǎi	[665] pick (v.)
+菜	cài	[666] vegetable
+受	shòu	[667] accept
+授	shòu	[668] confer
+爱	ài	[669] love (n. / v.)
+么	me	[670] (suffix)
+雄	xióng	[671] grand
+台	tái	[672] platform
+治	zhì	[673] govern
+始	shǐ	[674] commence
+去	qù	[675] go
+法	fǎ	[676] method
+会	huì	[677] meeting
+至	zhì	[678] until
+室	shì	[679] room
+到	dào	[680] arrive
+互	hù	[681] mutual
+充	chōng	[682] sufficient
+育	yù	[683] education
+流	liú	[684] flow (v.)
+梳	shū	[685] comb (n.)
+购	gòu	[686] purchase (v.)
+构	gòu	[687] frame (v.)
+//Remembering Simplified Hanzi/RSH1_23
+山	shān	[688] mountain
+出	chū	[689] exit (v.)
+础	chǔ	[690] foundation
+岁	suì	[691] years of age
+密	mì	[692] secret (adj.)
+入	rù	[693] enter
+分	fēn	[694] part (n. / v.)
+贫	pín	[695] impoverished
+公	gōng	[696] public (adj.)
+松	sōng	[697] pine tree
+谷	gǔ	[698] valley
+浴	yù	[699] bathe
+欲	yù	[700] desire (n. / v.)
+容	róng	[701] contain
+溶	róng	[702] dissolve
+//Remembering Simplified Hanzi/RSH1_24
+赏	shǎng	[703] prize (n.)
+党	dǎng	[704] political party
+常	cháng	[705] often
+堂	táng	[706] main room
+皮	pí	[707] covering (n.)
+波	bō	[708] waves
+婆	pó	[709] old woman
+破	pò	[710] break (v.)
+被	bèi	[711] quilt (n.)
+歹	dǎi	[712] malicious
+列	liè	[713] line up
+烈	liè	[714] intense
+死	sǐ	[715] death
+葬	zàng	[716] inter (v.)
+耳	ěr	[717] ear
+取	qǔ	[718] take
+趣	qù	[719] interest
+最	zuì	[720] most
+职	zhí	[721] job
+敢	gǎn	[722] brave (adj.)
+曼	màn	[723] drawn out
+慢	màn	[724] slow (adj.)
+漫	màn	[725] overflow (v.)
+夫	fū	[726] husband
+规	guī	[727] regulations
+替	tì	[728] replace
+失	shī	[729] lose
+铁	tiě	[730] iron (n.)
+臣	chén	[731] feudal official
+力	lì	[732] power
+边	biān	[733] border
+势	shì	[734] force (n.)
+动	dòng	[735] move (v.)
+励	lì	[736] encourage
+历	lì	[737] experience (n. / v.)
+另	lìng	[738] another
+别	bié	[739] don't
+拐	guǎi	[740] turn (v.)
+男	nán	[741] male (n.)
+功	gōng	[742] achievement
+办	bàn	[743] manage
+协	xié	[744] cooperate
+苏	sū	[745] revive
+为	wèi	[746] act (v.)
+奴	nú	[747] slave (n.)
+努	nǔ	[748] toil (v.)
+加	jiā	[749] add
+贺	hè	[750] congratulate
+架	jià	[751] shelf (n.)
+务	wù	[752] tasks
+雾	wù	[753] fog
+行	háng	[754] line of business
+律	lǜ	[755] law
+得	děi	[756] must (aux. v.)
+待	dài	[757] treat (v.)
+往	wǎng	[758] toward
+德	dé	[759] morality
+微	wēi	[760] tiny
+街	jiē	[761] street
+//Remembering Simplified Hanzi/RSH1_25
+禾	hé	[762] standing grain
+程	chéng	[763] journey (n.)
+和	hé	[764] harmony
+积	jī	[765] accumulate
+种	zhǒng	[766] species
+移	yí	[767] shift (v.)
+秋	qiū	[768] autumn
+愁	chóu	[769] gloomy
+揪	jiū	[770] hold tight
+利	lì	[771] profit (n.)
+香	xiāng	[772] perfume (n.)
+季	jì	[773] seasons
+委	wěi	[774] committee
+秀	xiù	[775] elegant
+透	tòu	[776] penetrate
+诱	yòu	[777] entice
+米	mǐ	[778] rice
+粉	fěn	[779] powder (n.)
+迷	mí	[780] lost
+谜	mí	[781] riddle
+类	lèi	[782] kind (n.)
+来	lái	[783] come
+数	shù	[784] number (n.)
+楼	lóu	[785] multistory building
+竹	zhú	[786] bamboo
+笑	xiào	[787] laugh (v.)
+箱	xiāng	[788] box (n.)
+等	děng	[789] etc.
+算	suàn	[790] calculate
+答	dá	[791] answer (v.)
+策	cè	[792] strategy
+//Remembering Simplified Hanzi/RSH1_26
+人	rén	[793] person
+认	rèn	[794] recognize
+价	jià	[795] price
+份	fèn	[796] portion
+伪	wěi	[797] bogus
+尔	ěr	[798] you (literary)
+你	nǐ	[799] you
+您	nín	[800] you (respectful)
+称	chēng	[801] weigh
+什	shén	[802] what?
+值	zhí	[803] value (n.)
+做	zuò	[804] make
+但	dàn	[805] however
+住	zhù	[806] dwell
+位	wèi	[807] position (n.)
+件	jiàn	[808] piece
+仍	réng	[809] still (adv.)
+他	tā	[810] he
+仅	jǐn	[811] merely
+休	xiū	[812] rest (v.)
+体	tǐ	[813] body
+信	xìn	[814] faith
+依	yī	[815] depend on
+例	lì	[816] example
+健	jiàn	[817] healthy
+停	tíng	[818] halt (v.)
+倒	dǎo	[819] upside down
+仁	rén	[820] benevolence
+优	yōu	[821] excellent
+伤	shāng	[822] wound (n.)
+保	bǎo	[823] safeguard (v.)
+堡	bǎo	[824] fort
+付	fù	[825] pay (v.)
+府	fǔ	[826] government office
+俯	fǔ	[827] bow one's head
+代	dài	[828] substitute for
+袋	dài	[829] bag (n.)
+化	huà	[830] transform
+华	huá	[831] splendor
+哗	huá	[832] clamor (n.)
+花	huā	[833] flower (n.)
+货	huò	[834] commodities
+何	hé	[835] whatwhichwhowherewhy?
+便	biàn	[836] convenient
+丈	zhàng	[837] 100 Chinese inches
+使	shǐ	[838] use (v.)
+久	jiǔ	[839] long time
+内	nèi	[840] internal
+呐	nà	[841] holler (v.)
+丙	bǐng	[842] third
+柄	bǐng	[843] handle (n.)
+肉	ròu	[844] meat
+腐	fǔ	[845] rotten
+从	cóng	[846] follow
+众	zhòng	[847] multitude
+坐	zuò	[848] sit
+座	zuò	[849] seat (n.)
+巫	wū	[850] witch
+喝	hē	[851] drink (v.)
+渴	kě	[852] thirsty
+//Remembering Simplified Hanzi/RSH1_27
+任	rèn	[853] appoint
+廷	tíng	[854] royal court
+庭	tíng	[855] court of law
+头	tóu	[856] head (n.)
+实	shí	[857] reality
+买	mǎi	[858] buy
+卖	mài	[859] sell
+读	dú	[860] read
+以	yǐ	[861] by means of
+似	sì	[862] similar
+并	bìng	[863] combine (v.)
+拼	pīn	[864] piece together
+吕	lǚ	[865] spine
+侣	lǚ	[866] associate (n.)
+荣	róng	[867] glory (n.)
+劳	láo	[868] labor (n.)
+营	yíng	[869] camp (n.)
+善	shàn	[870] virtuous
+年	nián	[871] year
+夜	yè	[872] night
+液	yè	[873] liquid
+//Remembering Simplified Hanzi/RSH1_28
+旅	lǚ	[874] travel (v.)
+施	shī	[875] execute
+游	yóu	[876] go swimming
+勿	wù	[877] not
+忽	hū	[878] suddenly
+物	wù	[879] thing
+易	yì	[880] easy
+赐	cì	[881] grant (v.)
+尸	shī	[882] corpse
+尼	ní	[883] nun
+呢	ne; ní	[884] woolen cloth
+泥	ní	[885] mud
+屋	wū	[886] habitation
+握	wò	[887] grip (v.)
+居	jū	[888] reside
+锯	jù	[889] saw (n.)
+//Remembering Simplified Hanzi/RSH1_29
+剧	jù	[890] drama
+据	jù	[891] certificate
+层	céng	[892] story
+局	jú	[893] bureau
+尺	chǐ	[894] ruler
+尽	jìn	[895] exhausted
+户	hù	[896] door
+房	fáng	[897] domicile
+雇	gù	[898] hire (v.)
+护	hù	[899] protect
+示	shì	[900] show (v.)
+社	shè	[901] society
+礼	lǐ	[902] ceremony
+视	shì	[903] inspect
+福	fú	[904] happiness
+标	biāo	[905] mark (n.)
+禁	jìn	[906] prohibit
+襟	jīn	[907] front of a garment
+宗	zōng	[908] religion
+崇	chóng	[909] worship (v.)
+祭	jì	[910] offer sacrifice
+察	chá	[911] scrutinize
+擦	cā	[912] scrub
+由	yóu	[913] wherefore (n.)
+抽	chōu	[914] take out
+油	yóu	[915] oil
+甲	jiǎ	[916] first
+押	yā	[917] pawn (v.)
+申	shēn	[918] express
+伸	shēn	[919] extend
+神	shén	[920] gods
+果	guǒ	[921] fruit
+课	kè	[922] lesson
+颗	kē	[923] granule
+//Remembering Simplified Hanzi/RSH1_30
+斤	jīn	[924] catty (n.)
+听	tīng	[925] listen
+所	suǒ	[926] place (n.)
+近	jìn	[927] near
+斩	zhǎn	[928] hew
+暂	zàn	[929] temporary
+渐	jiàn	[930] gradually
+断	duàn	[931] sever
+折	zhé	[932] discount
+哲	zhé	[933] philosopher
+逝	shì	[934] pass away
+斥	chì	[935] reprimand (v.)
+诉	sù	[936] accuse
+乍	zhà	[937] for the first time
+怎	zěn	[938] how?
+昨	zuó	[939] yesterday
+作	zuò	[940] do
+雪	xuě	[941] snow (n.)
+灵	líng	[942] spirit
+妇	fù	[943] married woman
+扫	sǎo	[944] sweep
+寻	xún	[945] seek
+急	jí	[946] anxious
+当	dāng	[947] work as
+档	dàng	[948] files
+录	lù	[949] record (v.)
+碌	lù	[950] commonplace (adj.)
+争	zhēng	[951] contend
+净	jìng	[952] clean (adj.)
+事	shì	[953] matter
+唐	táng	[954] Tang
+糖	táng	[955] sugar
+康	kāng	[956] hale
+尹	yǐn	[957] overseer
+伊	yī	[958] Queen Elizabeth
+君	jūn	[959] monarch
+裙	qún	[960] skirt (n.)
+群	qún	[961] crowd (n.)
+而	ér	[962] and
+需	xū	[963] need (v.)
+儒	rú	[964] Confucian
+瑞	ruì	[965] auspicious
+端	duān	[966] upright
+曲	qū	[967] bent
+斗	dǒu	[968] big dipper
+料	liào	[969] material (n.)
+科	kē	[970] academic discipline
+用	yòng	[971] utilize
+确	què	[972] reliable
+//Remembering Simplified Hanzi/RSH1_31
+昔	xī	[973] times past
+借	jiè	[974] borrow
+错	cuò	[975] mistaken
+散	sǎn	[976] scattered
+撒	sǎ	[977] scatter
+廿	niàn	[978] twenty
+席	xí	[979] mat
+度	dù	[980] degrees
+渡	dù	[981] ferry (n. / v.)
+半	bàn	[982] half (n. / adj.)
+伴	bàn	[983] partner
+胖	pàng	[984] fat (adj.)
+判	pàn	[985] judge (v.)
+眷	juàn	[986] dependents
+拳	quán	[987] boxing (n.)
+片	piàn	[988] slice (n.)
+版	bǎn	[989] printing plate
+之	zhī	[990] of
+乏	fá	[991] weary
+眨	zhǎ	[992] blink (v.)
+不	bù	[993] no
+否	fǒu	[994] negate
+坏	huài	[995] bad
+环	huán	[996] ring (n.)
+杯	bēi	[997] cup
+还	huán	[998] give back
+怀	huái	[999] cherish
+//Remembering Simplified Hanzi/RSH1_32
+矢	shǐ	[1000] dart (n.)
+族	zú	[1001] tribe
+知	zhī	[1002] know
+智	zhì	[1003] wisdom
+矛	máo	[1004] spear (n.)
+柔	róu	[1005] gentle
+揉	róu	[1006] knead
+予	yǔ	[1007] bestow
+序	xù	[1008] preface (n.)
+预	yù	[1009] beforehand
+野	yě	[1010] wild (adj.)
+班	bān	[1011] class
+临	lín	[1012] be about to
+坚	jiān	[1013] firm (adj.)
+贤	xián	[1014] worthy
+弓	gōng	[1015] bow (n.)
+引	yǐn	[1016] draw (v.)
+弥	mí	[1017] fill (v.)
+强	qiáng	[1018] strong
+弱	ruò	[1019] weak
+单	dān	[1020] list (n.)
+弹	dàn	[1021] bullet
+费	fèi	[1022] expense
+佛	fó	[1023] Buddha
+弟	dì	[1024] younger brother
+第	dì	[1025] No.
+巧	qiǎo	[1026] adroit
+号	hào	[1027] appellation
+//Remembering Simplified Hanzi/RSH1_33
+身	shēn	[1028] somebody
+射	shè	[1029] shoot (v.)
+谢	xiè	[1030] thank
+老	lǎo	[1031] old man
+考	kǎo	[1032] take an exam
+烤	kǎo	[1033] roast (v.)
+与	yǔ	[1034] offer (v.)
+写	xiě	[1035] write
+泻	xiè	[1036] diarrhea
+孝	xiào	[1037] filial piety
+教	jiāo	[1038] teach
+者	zhě	[1039] someone
+著	zhù	[1040] author (v.)
+猪	zhū	[1041] pig
+追	zhuī	[1042] chase
+官	guān	[1043] bureaucrat
+管	guǎn	[1044] pipe
+父	fù	[1045] father
+交	jiāo	[1046] mingle
+效	xiào	[1047] effect (n.)
+较	jiào	[1048] relatively
+校	xiào	[1049] school (n.)
+足	zú	[1050] lower leg
+跑	pǎo	[1051] run (v.)
+跳	tiào	[1052] jump (v.)
+路	lù	[1053] path
+露	lù	[1054] dew
+骨	gǔ	[1055] skeleton
+滑	huá	[1056] slippery
+//Remembering Simplified Hanzi/RSH1_34
+阿	ā	[1057] Apollo
+啊	ā	[1058] aah!
+随	suí	[1059] as you wish
+阳	yáng	[1060] Yang
+阴	yīn	[1061] Yin
+荫	yìn	[1062] shady
+防	fáng	[1063] ward off
+附	fù	[1064] attach
+际	jì	[1065] occasion (n.)
+阶	jiē	[1066] stairs
+院	yuàn	[1067] Inst.
+阵	zhèn	[1068] battle formation
+队	duì	[1069] team
+坠	jiē	[1070] plunge (v.)
+降	jiàng	[1071] descend
+穴	xué	[1072] hole
+究	jiū	[1073] research
+突	tū	[1074] abruptly
+空	kōng	[1075] empty
+控	kòng	[1076] control (v.)
+深	shēn	[1077] deep
+探	tàn	[1078] spy (n.)
+丘	qiū	[1079] hill
+兵	bīng	[1080] troops
+//Remembering Simplified Hanzi/RSH1_35
+丝	sī	[1081] silk
+织	zhī	[1082] weave (v.)
+线	xiàn	[1083] line (n.)
+维	wéi	[1084] maintain
+统	tǒng	[1085] continuum
+给	gěi	[1086] give
+结	jié	[1087] tie (v.)
+终	zhōng	[1088] end (n.)
+级	jí	[1089] rank (n.)
+纪	jì	[1090] epoch
+红	hóng	[1091] red
+约	yuē	[1092] make an appointment
+细	xì	[1093] fine (adj.)
+纵	zòng	[1094] vertical
+绿	lǜ	[1095] green
+经	jīng	[1096] scripture
+轻	qīng	[1097] lightweight (adj.)
+续	xù	[1098] continue
+继	jì	[1099] carry on (v.)
+药	yào	[1100] medicine
+系	xì	[1101] lineage
+紧	jǐn	[1102] tight
+//Remembering Simplified Hanzi/RSH1_36
+却	què	[1103] withdraw
+脚	jiǎo	[1104] foot
+服	fú	[1105] apparel
+报	bào	[1106] newspaper
+命	mìng	[1107] fate
+贸	mào	[1108] trade (n.)
+留	liú	[1109] stay (v.)
+溜	liū	[1110] slide (v.)
+聊	liáo	[1111] chat (v.)
+柳	liǔ	[1112] willow
+节	jié	[1113] holiday
+卫	wèi	[1114] defend
+令	lìng	[1115] orders (n.)
+冷	lěng	[1116] cold
+零	líng	[1117] zero
+领	lǐng	[1118] collar (n.)
+通	tōng	[1119] communicate
+勇	yǒng	[1120] courageous
+仓	cāng	[1121] storehouse
+枪	qiāng	[1122] gun
+创	chuàng	[1123] initiate (v.)
+犯	fàn	[1124] criminal (n.)
+危	wēi	[1125] danger
+脆	cuì	[1126] fragile
+印	yìn	[1127] print (n. / v.)
+//Remembering Simplified Hanzi/RSH1_37
+酒	jiǔ	[1128] liquor
+配	pèi	[1129] distribute
+酋	qiú	[1130] chieftain
+尊	zūn	[1131] venerate (v.)
+遵	zūn	[1132] abide by
+豆	dòu	[1133] beans
+短	duǎn	[1134] short
+厨	chú	[1135] kitchen
+鼓	gǔ	[1136] drum
+喜	xǐ	[1137] joyful
+血	xuè	[1138] blood
+盖	gài	[1139] lid
+温	wēn	[1140] temperature
+监	jiān	[1141] supervise
+篮	lán	[1142] basket
+蓝	lán	[1143] blue
+银	yín	[1144] silver
+跟	gēn	[1145] heel (n. / v.)
+很	hěn	[1146] very
+根	gēn	[1147] root (n.)
+即	jí	[1148] immediately
+退	tuì	[1149] retreat (v.)
+腿	tuǐ	[1150] leg
+限	xiàn	[1151] limit (n. / v.)
+眼	yǎn	[1152] eyelet
+良	liáng	[1153] high-quality (adj.)
+浪	làng	[1154] breakers
+娘	niáng	[1155] mom
+食	shí	[1156] food
+饭	fàn	[1157] meal
+餐	cān	[1158] dine
+馆	guǎn	[1159] Bldg.
+既	jì	[1160] since
+概	gài	[1161] approximate (adj.)
+//Remembering Simplified Hanzi/RSH1_38
+平	píng	[1162] even (adj.)
+评	píng	[1163] evaluate
+坪	píng	[1164] level ground
+乎	hū	[1165] ooh!
+呼	hū	[1166] shout (v.)
+希	xī	[1167] hope (v.)
+稀	xī	[1168] scarce
+杀	shā	[1169] kill
+风	fēng	[1170] wind (n.)
+讽	fěng	[1171] mock
+冈	gāng	[1172] ridge of a hill
+刚	gāng	[1173] just now
+网	wǎng	[1174] net (n.)
+画	huà	[1175] drawing
+凶	xiōng	[1176] cruel
+胸	xiōng	[1177] bosom
+脑	nǎo	[1178] brain
+恼	nǎo	[1179] annoyed
+离	lí	[1180] leave (v.)
+禽	qín	[1181] fowl
+义	yì	[1182] righteousness
+议	yì	[1183] deliberate (v.)
+蚁	yǐ	[1184] ant
+辛	xīn	[1185] peppery
+辩	biàn	[1186] dispute (v.)
+辟	pì	[1187] repudiate
+壁	bì	[1188] partition (n.)
+避	bì	[1189] avoid
+亲	qīn	[1190] relatives
+新	xīn	[1191] new
+薪	xīn	[1192] fuel
+幸	xìng	[1193] good fortune
+叫	jiào	[1194] call (v.)
+收	shōu	[1195] receive
+亥	hài	[1196] sign of the hog
+核	hé	[1197] nucleus
+孩	hái	[1198] tot
+刻	kè	[1199] carve
+该	gāi	[1200] should
+术	shù	[1201] art
+述	shù	[1202] narrate
+襄	xiāng	[1203] aid (v.)
+壤	rǎng	[1204] territory
+寒	hán	[1205] frigid
+赛	sài	[1206] competition
+//Remembering Simplified Hanzi/RSH1_39
+毒	dú	[1207] poison (n.)
+麦	mài	[1208] wheat
+素	sù	[1209] vegetarian diet
+青	qīng	[1210] blue or green
+精	jīng	[1211] refined
+请	qǐng	[1212] invite
+情	qíng	[1213] feelings
+睛	jīng	[1214] eyeball
+清	qīng	[1215] pure
+静	jìng	[1216] quiet
+责	zé	[1217] responsibility
+绩	jì	[1218] accomplishments
+表	biǎo	[1219] surface (n.)
+生	shēng	[1220] life
+星	xīng	[1221] star (n.)
+姓	xìng	[1222] surname
+性	xìng	[1223] sex
+胜	shèng	[1224] victory
+丰	fēng	[1225] plentiful
+害	hài	[1226] harm (n.)
+割	gē	[1227] cut off (v.)
+慧	huì	[1228] intelligent
+韦	wéi	[1229] tanned hide
+围	wéi	[1230] surround
+伟	wěi	[1231] great
+春	chūn	[1232] springtime
+泰	tài	[1233] tranquil
+奉	fèng	[1234] proffer (v.)
+棒	bàng	[1235] cudgel (n.)
+击	jī	[1236] beat (v.)
+陆	lù	[1237] land
+专	zhuān	[1238] specialty
+传	chuán	[1239] spread (v.)
+转	zhuàn	[1240] rotate
+勤	qín	[1241] diligent
+谨	jǐn	[1242] careful
+垂	chuí	[1243] droop
+锤	chuí	[1244] hammer (n.)
+睡	shuì	[1245] sleep (v.)
+//Remembering Simplified Hanzi/RSH1_40
+今	jīn	[1246] now
+含	hán	[1247] harbor (v.)
+念	niàn	[1248] miss (v.)
+东	dōng	[1249] east
+栋	dòng	[1250] building
+冻	dòng	[1251] freeze (v.)
+陈	chén	[1252] exhibit (v.)
+练	liàn	[1253] practice (v.)
+拣	jiǎn	[1254] opt for
+西	xī	[1255] west
+要	yào	[1256] want (v.)
+腰	yāo	[1257] waist
+票	piào	[1258] ticket
+漂	piào	[1259] drift (v.)
+贾	gǔ	[1260] merchant
+南	nán	[1261] south
+//Remembering Simplified Hanzi/RSH1_41
+门	mén	[1262] gate
+们	men	[1263] (plural)
+闲	xián	[1264] leisure
+问	wèn	[1265] ask
+间	jiàn	[1266] interval
+简	jiǎn	[1267] simple
+闻	wén	[1268] hear
+非	fēi	[1269] non-
+排	pái	[1270] row (n.)
+罪	zuì	[1271] guilt
+靠	kào	[1272] lean on
+侯	hóu	[1273] marquis
+候	hòu	[1274] wait (v.)
+决	jué	[1275] decide
+快	kuài	[1276] fast (adj.)
+块	kuài	[1277] lump (n.)
+筷	kuài	[1278] chopsticks
+//Remembering Simplified Hanzi/RSH1_42
+干	gān	[1279] dry (adj.)
+岸	àn	[1280] shore
+旱	hàn	[1281] drought
+赶	gǎn	[1282] hurry (v.)
+于	yú	[1283] Yu
+宇	yǔ	[1284] eaves
+余	yú	[1285] excess
+除	chú	[1286] eliminate
+途	tú	[1287] route (n.)
+束	shù	[1288] bundle up
+速	sù	[1289] quick
+辣	là	[1290] spicy hot
+整	zhěng	[1291] entire
+重	zhòng	[1292] heavy
+懂	dǒng	[1293] understand
+//Remembering Simplified Hanzi/RSH1_43
+病	bìng	[1294] illness
+痛	tòng	[1295] ache (v.)
+疯	fēng	[1296] insane
+区	qū	[1297] region
+枢	shū	[1298] hub
+欧	ōu	[1299] Europe
+医	yī	[1300] physician
+仰	yǎng	[1301] look up to
+迎	yíng	[1302] greet
+登	dēng	[1303] ascend
+发	fā	[1304] send out
+废	fèi	[1305] discard (v.)
+//Remembering Simplified Hanzi/RSH1_44
+形	xíng	[1306] shape (n.)
+影	yǐng	[1307] shadow (n.)
+彩	cǎi	[1308] hue
+须	xū	[1309] have to
+参	cān	[1310] participate
+惨	cǎn	[1311] wretched
+修	xiū	[1312] repair (v.)
+珍	zhēn	[1313] rare
+产	chǎn	[1314] products
+彦	yàn	[1315] erudite
+颜	yán	[1316] countenance (n.)
+文	wén	[1317] literature
+蚊	wén	[1318] mosquito
+这	zhè	[1319] this
+齐	qí	[1320] identical
+济	jì	[1321] relieve
+率	shuài	[1322] rate (n.)
+摔	shuāi	[1323] tumble (v.)
+央	yāng	[1324] center
+英	yīng	[1325] England
+唤	huàn	[1326] call out
+换	huàn	[1327] exchange (v.)
+巴	bā	[1328] crust
+把	bǎ	[1329] grasp (v.)
+爸	bà	[1330] papa
+吧	bā	[1331] bar (n.)
+色	sè	[1332] color (n.)
+绝	jué	[1333] discontinue
+艳	yàn	[1334] gorgeous
+//Remembering Simplified Hanzi/RSH1_45
+甘	gān	[1335] sweet
+某	mǒu	[1336] such and such (adj.)
+其	qí	[1337] his-hers-its-theirs
+期	qī	[1338] period of time
+基	jī	[1339] base (n.)
+甚	shèn	[1340] tremendously
+斯	sī	[1341] Sphinx
+贵	guì	[1342] expensive
+遗	yí	[1343] bequeath
+舞	wǔ	[1344] dance (n. / v.)
+//Remembering Simplified Hanzi/RSH1_46
+且	qiě	[1345] moreover
+姐	jiě	[1346] older sister
+组	zǔ	[1347] group (n.)
+祖	zǔ	[1348] ancestor
+助	zhù	[1349] assist (v.)
+普	pǔ	[1350] universal
+业	yè	[1351] profession
+显	xiǎn	[1352] obvious
+亚	yà	[1353] Asia
+恶	è	[1354] evil
+严	yán	[1355] strict
+共	gòng	[1356] together
+供	gōng	[1357] supply (n. / v.)
+巷	xiàng	[1358] lane
+港	gǎng	[1359] port (n.)
+//Remembering Simplified Hanzi/RSH1_47
+井	jǐng	[1360] well (n.)
+讲	jiǎng	[1361] lecture (v.)
+进	jìn	[1362] advance (v.)
+角	jiǎo	[1363] angle
+解	jiě	[1364] untie
+嘴	zuǐ	[1365] orifice
+再	zài	[1366] once more
+扁	biǎn	[1367] flat (adj.)
+篇	piān	[1368] piece of writing
+编	biān	[1369] compile
+典	diǎn	[1370] canon
+//Remembering Simplified Hanzi/RSH1_48
+氏	shì	[1371] family name
+纸	zhǐ	[1372] paper
+昏	hūn	[1373] dusk
+婚	hūn	[1374] marriage
+低	dī	[1375] low
+底	dǐ	[1376] bottom
+民	mín	[1377] people
+眠	mián	[1378] slumber (n.)
+甫	fǔ	[1379] Fu
+辅	fǔ	[1380] supplement (v.)
+博	bó	[1381] knowledgeable
+搏	bó	[1382] wrestle
+都	dū	[1383] metropolis
+部	bù	[1384] department
+郎	láng	[1385] young man
+帮	bāng	[1386] help (v.)
+乡	xiāng	[1387] countryside
+//Remembering Simplified Hanzi/RSH1_49
+段	duàn	[1388] section (n.)
+锻	duàn	[1389] forge (v.)
+幻	huàn	[1390] unreal
+司	sī	[1391] take charge of
+词	cí	[1392] word (n.)
+书	shū	[1393] book
+舟	zhōu	[1394] boat
+船	chuán	[1395] ship (n.)
+般	bān	[1396] sort (n.)
+盘	pán	[1397] tray
+搬	bān	[1398] relocate
+瓜	guā	[1399] melon
+孤	gū	[1400] orphan
+//Remembering Simplified Hanzi/RSH1_50
+益	yì	[1401] benefit (n.)
+假	jià	[1402] vacation (n.)
+暇	xiá	[1403] spare time
+气	qì	[1404] air (n.)
+汽	qì	[1405] vapor
+面	miàn	[1406] face-to-face
+革	gé	[1407] leather (n.)
+鞋	xié	[1408] shoes
+勒	lè	[1409] tighten
+馨	xīn	[1410] fragrant
+声	shēng	[1411] voice (n.)
+承	chéng	[1412] undertake
+蒸	zhēng	[1413] steam (v.)
+//Remembering Simplified Hanzi/RSH1_51
+牙	yá	[1414] tooth
+穿	chuān	[1415] pass through
+呀	ya	[1416] wow!
+释	shì	[1417] explain
+番	fān	[1418] try (n.)
+翻	fān	[1419] turn over
+播	bō	[1420] broadcast (v.)
+毛	máo	[1421] fur
+尾	wěi	[1422] tail
+笔	bǐ	[1423] pen
+托	tuō	[1424] entrust
+宅	zhái	[1425] dwelling (n.)
+展	zhǎn	[1426] unfold
+丧	sàng	[1427] funeral
+长	cháng	[1428] long
+张	zhāng	[1429] stretch (v.)
+涨	zhàng	[1430] swell (v.)
+//Remembering Simplified Hanzi/RSH1_52
+雁	yàn	[1431] wild goose
+应	yīng	[1432] ought to
+兴	xìng	[1433] excitement
+举	jǔ	[1434] lift up
+检	jiǎn	[1435] examine
+脸	liǎn	[1436] face (n.)
+险	xiǎn	[1437] perilous
+鸟	niǎo	[1438] bird
+鸡	jī	[1439] chicken
+鹰	yīng	[1440] hawk
+鸭	yā	[1441] duck (n.)
+岛	dǎo	[1442] island
+遇	yù	[1443] encounter (v.)
+缺	quē	[1444] deficient
+遥	yáo	[1445] remote (adj.)
+摇	yáo	[1446] shake (v.)
+兔	tù	[1447] rabbit
+逸	yì	[1448] flee
+免	miǎn	[1449] avoid
+晚	wǎn	[1450] nightfall
+象	xiàng	[1451] elephant
+像	xiàng	[1452] likeness
+//Remembering Simplified Hanzi/RSH1_53
+马	mǎ	[1453] horse
+妈	mā	[1454] mama
+吗	ma	[1455] yes or no
+骂	mà	[1456] scold (v.)
+验	yàn	[1457] check (v.)
+骑	qí	[1458] ride (v.)
+虎	hǔ	[1459] tiger
+虑	lǜ	[1460] ponder
+虚	xū	[1461] false
+鹿	lù	[1462] deer
+熊	xióng	[1463] bear (n.)
+能	néng	[1464] ability
+//Remembering Simplified Hanzi/RSH1_54
+寅	yín	[1465] sign of the tiger
+演	yǎn	[1466] perform
+辰	chén	[1467] sign of the dragon
+晨	chén	[1468] morning
+关	guān	[1469] shut (v.)
+送	sòng	[1470] deliver
+联	lián	[1471] unite
+鬼	guǐ	[1472] ghost
+魔	mó	[1473] demon
+龙	lóng	[1474] dragon
+袭	xí	[1475] raid (v.)
+//Remembering Simplified Hanzi/RSH1_55
+那	nà	[1476] that
+哪	nǎ	[1477] which?
+两	liǎng	[1478] dos
+俩	liǎ	[1479] duo
+满	mǎn	[1480] full
+县	xiàn	[1481] county
+悬	xuán	[1482] suspend
+窗	chuāng	[1483] window
+电	diàn	[1484] electricity
+掩	yǎn	[1485] conceal
+丑	chǒu	[1486] clown
+扭	niǔ	[1487] twist (v.)
+黄	huáng	[1488] yellow
+横	héng	[1489] horizontal
+赤	chì	[1490] crimson
+亦	yì	[1491] likewise
+弯	wān	[1492] curved (adj.)
+湾	wān	[1493] bay (n.)
+恋	liàn	[1494] be enamored of
+变	biàn	[1495] change (v.)
+卑	bēi	[1496] lowly
+牌	pái	[1497] brand (n.)
+套	tào	[1498] cover (n.)
+曰	yuē	[1499] sayeth
+属	shǔ	[1500] belong to
+//Remembering Simplified Hanzi/RSH2_01
+叭	Bā	[1501] trumpet (n.)
+//Remembering Simplified Hanzi/RSH2_02
+咕	Gū	[1502] mutter
+胆	Dǎn	[1503] gall bladder
+//Remembering Simplified Hanzi/RSH2_03
+咱	Zán	[1504] we (inclusive)
+肿	Zhǒng	[1505] swollen
+串	Chuàn	[1506] string together
+吓	Xià	[1507] terrify
+罩	Zhào	[1508] overspread (v.)
+//Remembering Simplified Hanzi/RSH2_04
+兽	Shòu	[1509] beast
+嚣	Xiāo	[1510] hubbub
+//Remembering Simplified Hanzi/RSH2_05
+矗	Chù	[1511] stand straight
+颠	Diān	[1512] invert
+巩	Gǒng	[1513] strengthen
+叨	Dāo	[1514] talkative
+刮	Guā	[1515] scrape (v.)
+盯	Dīng	[1516] stare at
+呵	Ā	[1517] rebuke (v.)
+//Remembering Simplified Hanzi/RSH2_06
+姑	Gū	[1518] father's sister
+婴	Yīng	[1519] baby
+姆	Mǔ	[1520] nanny
+兢	Jīng	[1521] cautious
+//Remembering Simplified Hanzi/RSH2_07
+奋	Fèn	[1522] exert oneself
+夹	Jiā	[1523] press from both sides
+颊	Jiá	[1524] cheek
+厕	Cè	[1525] toilet
+硕	Shuò	[1526] big
+砌	Qì	[1527] lay brick
+哨	Shào	[1528] whistle (n.)
+晃	Huàng	[1529] sway (v.)
+//Remembering Simplified Hanzi/RSH2_08
+泪	Lèi	[1530] tears
+泄	Xiè	[1531] discharge (v.)
+泊	Bó	[1532] moor (v.)
+沾	Zhān	[1533] soak
+渺	Miǎo	[1534] insignificant
+汰	Tài	[1535] get rid of
+咏	Yǒng	[1536] chant (v.)
+腺	Xiàn	[1537] gland
+鲁	Lǔ	[1538] Lu
+坦	Tǎn	[1539] level (adj.)
+坝	Bà	[1540] dam (n.)
+涯	Yá	[1541] bank (n.)
+娃	Wá	[1542] newborn (n.)
+肘	Zhǒu	[1543] elbow (n.)
+碍	Ài	[1544] obstruct
+夺	Duó	[1545] take by force
+灼	Zhuó	[1546] scorch
+炒	Chǎo	[1547] stir-fry (v.)
+灶	Zào	[1548] cooking stove
+//Remembering Simplified Hanzi/RSH2_09
+哩	Lǐ	[1549] mile
+厘	Lí	[1550] smidgen
+鲤	Lǐ	[1551] carp (n.)
+嘿	Hēi	[1552] Hey!
+熏	Xūn	[1553] treat with smoke
+丹	Dān	[1554] cinnabar red
+炯	Jiǒng	[1555] shining
+晌	Shǎng	[1556] part of the day
+淌	Tǎng	[1557] trickle (v.)
+宁	Níng	[1558] calm (adj.)
+寡	Guǎ	[1559] widowed
+喧	Xuān	[1560] boisterous
+//Remembering Simplified Hanzi/RSH2_10
+棚	Péng	[1561] shed (n.)
+柏	Bǎi	[1562] cypress
+朴	Pǔ	[1563] plain (adj.)
+朵	Duo	[1564] flouds
+杠	Gàng	[1565] thick stick
+椅	Yǐ	[1566] chair
+樱	Yīng	[1567] cherry
+梢	Shāo	[1568] treetops
+杜	Dù	[1569] prevent
+杰	Jié	[1570] outstanding
+桐	Tóng	[1571] paulownia
+宋	Sòng	[1572] Song Dynasty
+桂	Guì	[1573] cassia-bark tree
+淋	Lín	[1574] drench
+焚	Fén	[1575] burn (v.)
+厢	Xiāng	[1576] side room
+昧	Mèi	[1577] obscure (adj./v.)
+朱	Zhū	[1578] vermillion
+株	Zhū	[1579] tree trunk
+萌	Méng	[1580] bud (v.)
+苟	Gǒu	[1581] careless
+苛	Kē	[1582] exacting
+萝	Luó	[1583] edible root
+膜	Mó	[1584] membrane
+暮	Mù	[1585] sunset
+寞	Mò	[1586] solitary
+//Remembering Simplified Hanzi/RSH2_11
+猫	Māo	[1587] cat
+狭	Xiá	[1588] narrow (adj.)
+狸	Lí	[1589] raccoon dog
+犹	Yóu	[1590] just like
+燃	Rán	[1591] ignite
+咒	Zhòu	[1592] curse (v.)
+嗅	Xiù	[1593] sniff (v.)
+牢	Láo	[1594] jail
+牡	Mǔ	[1595] dude
+宪	Xiàn	[1596] constitution
+赞	Zàn	[1597] succor (v.)
+//Remembering Simplified Hanzi/RSH2_12
+伞	Sǎn	[1598] umbrella
+舍	She	[1599] abode
+啥	Shà	[1600] wha?
+洽	Qià	[1601] in agreement
+旺	Wàng	[1602] thriving
+碧	Bì	[1603] green jade
+琐	Suǒ	[1604] trivial
+汪	Wāng	[1605] tearful
+枉	Wǎng	[1606] crooked
+珠	Zhū	[1607] pearl
+噩	È	[1608] shocking
+栓	Shuān	[1609] plug (n.)
+柱	Zhù	[1610] pillar
+钥	Yào	[1611] key
+钻	Zuān	[1612] drill (n./v.)
+钞	Chāo	[1613] paper money
+锁	Suǒ	[1614] lock (n./v.)
+销	Xiāo	[1615] put up for sale
+锣	Luó	[1616] gong
+//Remembering Simplified Hanzi/RSH2_13
+迫	Pò	[1617] compel
+迁	Qiān	[1618] resituate
+逼	Bī	[1619] press (v.)
+辽	Liáo	[1620] far away
+逻	Luó	[1621] make the rounds
+逞	Chěng	[1622] flaunt
+轨	Guǐ	[1623] rails
+轧	Yà	[1624] flatten
+辐	Fú	[1625] spokes
+链	Liàn	[1626] chain (n.)
+煎	Jiān	[1627] saute (v.)
+喻	Yù	[1628] figure of speech
+榆	Yú	[1629] elm
+胳	Gē	[1630] upper limb
+厦	Shà	[1631] skyscraper (v.)
+//Remembering Simplified Hanzi/RSH2_14
+牵	Qiān	[1632] lead along
+浑	Hún	[1633] muddled
+晕	Yūn	[1634] dizzy
+炕	Kàng	[1635] brick-heated bed
+膏	Gāo	[1636] ointment
+淳	Chún	[1637] honest
+亨	Hēng	[1638] go smoothly
+哼	Hēng	[1639] hum (v.)
+鲸	Jīng	[1640] whale
+壳	Ké	[1641] shell (n.)
+洁	Jié	[1642] spotless
+//Remembering Simplified Hanzi/RSH2_15
+枚	Méi	[1643] small objects
+牧	Mù	[1644] herd (v.)
+玫	Méi	[1645] rose
+敦	Dūn	[1646] candid
+墩	Dūn	[1647] mound
+瞻	Zhān	[1648] look upward
+谓	Wèi	[1649] meaning
+询	Xún	[1650] inquire
+讥	Jī	[1651] deride
+罚	Fá	[1652] penalize
+订	Dìng	[1653] place an order
+谅	Liàng	[1654] forgive
+诺	Nuò	[1655] promise (n.)
+讯	Xùn	[1656] interrogate
+//Remembering Simplified Hanzi/RSH2_16
+谍	Dié	[1657] espionage
+碟	Dié	[1658] saucer
+贰	Èr	[1659] II
+腻	Nì	[1660] sick and tired of
+嘎	Gá	[1661] caw (n.)
+域	Yù	[1662] domain
+栽	Zāi	[1663] sow (v.)
+戚	Qi	[1664] kin
+蔑	Miè	[1665] despise
+喊	Hǎn	[1666] yell (v.)
+溅	Jiàn	[1667] splatter (v.)
+浇	Jiāo	[1668] sprinkle
+//Remembering Simplified Hanzi/RSH2_17
+涩	Sè	[1669] astringent
+址	Zhǐ	[1670] address (n.)
+赴	Fù	[1671] go to
+趟	Tàng	[1672] trip
+堤	Dī	[1673] dike
+津	Jīn	[1674] Tianjin
+键	Jiàn	[1675] keyboard keys
+婿	Xù	[1676] son-in-law
+//Remembering Simplified Hanzi/RSH2_18
+袜	Wà	[1677] socks
+衰	Shuāi	[1678] decline (v.)
+衷	Zhōng	[1679] innermost feelings
+猿	Yuán	[1680] ape
+吊	Diào	[1681] dangle
+币	Bì	[1682] currency
+帕	Pà	[1683] handkerchief
+帖	Tiē	[1684] note (n.)
+帆	Fān	[1685] sail (n.)
+幅	Fú	[1686] width of cloth
+锦	Jǐn	[1687] brocade
+沛	Pèi	[1688] copious
+柿	Shì	[1689] persimmon
+棘	Jí	[1690] thorn bushes
+蕾	Lěi	[1691] flower bud
+尝	Cháng	[1692] taste (v.)
+坛	Tán	[1693] altar
+枣	Zǎo	[1694] jujube
+吞	Tūn	[1695] gulp down
+妖	Yāo	[1696] bewitching
+沃	Wò	[1697] fertile
+袄	ǎo	[1698] short Chinese-style coat
+轿	Jiào	[1699] sedan chair
+垃	Lā	[1700] garbage
+啼	Tí	[1701] weep aloud
+蒂	Dì	[1702] fruit stem
+顷	Qǐng	[1703] 100 Chinese acres
+匙	Shi	[1704] spoon (n.)
+乖	Guāi	[1705] well-behaved
+乘	Chéng	[1706] hitch a ride
+剩	Shèng	[1707] leftover (adj.)
+毕	Bì	[1708] complete (v.)
+棍	Gùn	[1709] club (n.)
+谐	Xié	[1710] in accord
+柴	Chái	[1711] firewood
+沦	Lún	[1712] sink (v.)
+敏	Mǐn	[1713] quick-witted
+霉	Méi	[1714] mildew (n.)
+迄	Qì	[1715] so far
+砍	Kǎn	[1716] chop (v.)
+坎	Kǎn	[1717] hump (n.)
+炊	Chuī	[1718] cook (v.)
+钦	Qīn	[1719] think highly of
+//Remembering Simplified Hanzi/RSH2_19
+剖	Pōu	[1720] cut open
+菩	Pú	[1721] bodhisattva
+黯	àn	[1722] tenebrous
+赢	Yíng	[1723] win (v.)
+芒	Máng	[1724] mango
+荒	Huāng	[1725] wasteland
+谎	Huǎng	[1726] lie (n.)
+茫	Máng	[1727] boundless
+坊	Fáng	[1728] workshop
+芳	Fāng	[1729] aromatic
+访	Fǎng	[1730] call on
+淤	yū	[1731] silt
+熬	Áo	[1732] stew (v.)
+膀	Bǎng	[1733] upper arm
+磅	Bàng	[1734] pound (n.)
+榜	Bǎng	[1735] roster
+锐	Ruì	[1736] sharp
+//Remembering Simplified Hanzi/RSH2_20
+虹	Hóng	[1737] rainbow
+蝠	Fú	[1738] bat (n.)
+浊	Zhuó	[1739] turbid
+蝗	Huáng	[1740] locust
+蛙	Wā	[1741] frog
+烛	Zhú	[1742] candle
+茧	Jiǎn	[1743] cocoon
+蚕	Cán	[1744] silkworm
+胞	Bāo	[1745] placenta
+炮	Pào	[1746] cannon
+袍	Páo	[1747] robe (n.)
+雹	Báo	[1748] hail
+豪	Háo	[1749] unrestrained
+啄	Zhuó	[1750] peck (v.)
+琢	Zuó	[1751] chisel (v.)
+遂	Suì	[1752] satisfy
+嫁	Jià	[1753] marry
+肠	Cháng	[1754] intestines
+杨	Yáng	[1755] poplar
+烫	Tàng	[1756] scald
+荡	Dàng	[1757] licentious
+姜	Jiāng	[1758] ginger
+详	Xiáng	[1759] detailed
+羡	Xiàn	[1760] envy (v.)
+栏	Lán	[1761] railing
+拦	Lán	[1762] impede
+唯	wéi	[1763] solely
+雀	Què	[1764] sparrow
+堆	Duī	[1765] pile (n./v.)
+雕	Diāo	[1766] sculpture
+截	Jié	[1767] lop off
+霍	Huò	[1768] all at once
+雌	cí	[1769] feminine
+焦	Jiāo	[1770] apprehensive
+瞧	Qiáo	[1771] lay eyes on
+礁	Jiāo	[1772] reef
+蕉	Jiāo	[1773] banana
+翘	Qiào	[1774] turn upward
+塌	Tā	[1775] fall down
+翰	Hàn	[1776] writing brush
+耀	Yào	[1777] show off (v.)
+戳	Chuō	[1778] jab (v.)
+//Remembering Simplified Hanzi/RSH2_21
+咽	Yàn	[1779] throat
+姻	Yīn	[1780] in-law
+墙	Qiáng	[1781] wall
+旷	Kuàng	[1782] expansive
+矿	Kuàng	[1783] mine (n.)
+庆	Qìng	[1784] celebrate
+嘛	Ma	[1785] (pause marker)
+磨	Mó	[1786] grind
+脏	Zāng	[1787] dirty
+赃	Zāng	[1788] stolen goods
+桩	Zhuāng	[1789] stake (n.)
+忠	Zhōng	[1790] loyal
+恕	Shù	[1791] pardon (v.)
+惑	Huò	[1792] be bewildered
+愈	Yù	[1793] more and more
+惠	Huì	[1794] favor (n.)
+忌	Jì	[1795] shun
+患	Huàn	[1796] troubles
+惹	Rě	[1797] provoke
+恒	Héng	[1798] permanent
+悟	Wù	[1799] realize
+悼	Dào	[1800] mourn
+惧	Jù	[1801] be frightened
+慎	Shèn	[1802] prudent
+惰	Duò	[1803] indolent
+恢	Huī	[1804] immense
+惶	Huáng	[1805] fearful
+忆	Yì	[1806] recall (v.)
+悄	Qiāo	[1807] noiseless
+恍	Huǎng	[1808] all of a sudden
+恰	Qià	[1809] just right
+愉	Yú	[1810] overjoyed
+怔	Zhēng	[1811] terror-stricken
+怖	Bù	[1812] be scared of
+慌	Huāng	[1813] nervous
+愣	lèng	[1814] dumbfounded
+悦	Yuè	[1815] delighted
+憎	Zēng	[1816] loathe
+惟	Wéi	[1817] thinking
+悔	Huǐ	[1818] be sorry about
+慕	Mù	[1819] admire
+添	Tiān	[1820] augment
+媳	Xí	[1821] daughter-in-law
+熄	Xī	[1822] put out
+泌	Mì	[1823] secrete
+瑟	Sè	[1824] Chinese harp
+蜜	Mì	[1825] honey
+//Remembering Simplified Hanzi/RSH2_22
+蛾	É	[1826] moth
+扒	Bā	[1827] pick pockets (v.)
+扣	Kòu	[1828] button (n./v.)
+拍	Pāi	[1829] racquet
+啪	Pā	[1830] clapping sound
+扑	Pū	[1831] pounce on
+拘	Jū	[1832] detain
+损	Sǔn	[1833] damage (v.)
+拓	Tà	[1834] pioneer (v.)
+扛	Káng	[1835] carry over the shoulder
+扎	Zhā	[1836] prick (v.)
+拇	Mu	[1837] thumb
+捎	shāo	[1838] bring to
+抄	Chāo	[1839] copy (v.)
+垫	Diàn	[1840] pad (n./v.)
+挚	Zhì	[1841] earnest
+捏	Niē	[1842] pinch (v.)
+拧	niē	[1843] tweak (v.)
+抹	Mǒ	[1844] smear on
+摸	Mō	[1845] grope
+描	Miáo	[1846] describe
+挑	Tiāo	[1847] foment
+扰	Rǎo	[1848] harass
+搞	Gǎo	[1849] engage in
+拴	Shuān	[1850] tether (v.)
+拾	Shi	[1851] tidy up
+搭	Dā	[1852] put up
+掠	Lüè	[1853] pillage (v.)
+拭	Shì	[1854] wipe away
+挠	Náo	[1855] chafe
+扯	Chě	[1856] yank (v.)
+撞	Zhuàng	[1857] bump into
+摘	Zhāi	[1858] handpick
+拖	Tuō	[1859] drag (v.)
+扬	Yáng	[1860] publicize
+搓	cuō	[1861] massage (v.)
+捆	Kǔn	[1862] lash together
+扩	Kuò	[1863] enlarge
+撼	Hàn	[1864] joggle (v.)
+挟	Xié	[1865] coerce
+擅	Shàn	[1866] act without authority
+颤	Chàn	[1867] tremble
+戒	Jiè	[1868] take precautions against
+械	Xiè	[1869] weapon
+诫	Jiè	[1870] warn
+莽	Mǎng	[1871] rude
+奔	Bēn	[1872] dash (v.)
+喷	Pēn	[1873] spurt (v.)
+愤	Fèn	[1874] indignation
+材	Cái	[1875] stuff (n.)
+荐	Jiàn	[1876] recommend
+孕	Yùn	[1877] pregnant
+扔	Rēng	[1878] throw away
+携	Xié	[1879] take along
+圾	Jī	[1880] trash (n.)
+梗	gěng	[1881] stalk (n.)
+叹	Tàn	[1882] sigh (v.)
+叉	Chā	[1883] fork (n.)
+权	Quán	[1884] authority
+寇	Kòu	[1885] outlaw (n.)
+敲	Qiāo	[1886] knock (v.)
+轰	Hōng	[1887] rumble (n./v.)
+滩	Tān	[1888] beach (n.)
+毅	Yì	[1889] resolute
+肢	Zhī	[1890] limb
+妓	Jì	[1891] prostitute
+歧	Qí	[1892] fork in the road
+翅	Chì	[1893] fins
+淑	Shū	[1894] graceful
+椒	Jiāo	[1895] spice plant
+盾	Dùn	[1896] shield (n.)
+贩	Fàn	[1897] peddler
+扳	Bān	[1898] tug (v.)
+烁	Shuò	[1899] luminous
+觅	Mì	[1900] try to find
+妥	Tuǒ	[1901] appropriate (adj.)
+豹	Bào	[1902] leopard
+貌	mào	[1903] mein
+睬	Cǎi	[1904] notice (v.)
+允	Yǔn	[1905] consent (v.)
+宏	Hóng	[1906] magnificent
+垒	Lěi	[1907] baseball base
+胎	Tāi	[1908] fetus
+怠	Dài	[1909] negligent
+怡	yí	[1910] cheerful
+冶	Yě	[1911] smelt (v.)
+抬	Tái	[1912] elevate
+罢	Bà	[1913] cease
+摆	Bǎi	[1914] put in order
+丢	Diū	[1915] mislay
+致	Zhì	[1916] bring about
+弃	Qì	[1917] forsake
+撤	Chè	[1918] remove
+硫	Liú	[1919] sulfur
+琉	Liú	[1920] glaze (n.)
+疏	Shū	[1921] sparse
+蔬	Shū	[1922] veggies
+勾	Gōu	[1923] cross out
+沟	Gōu	[1924] ditch (n.)
+钩	Gōu	[1925] hook (n./v.)
+//Remembering Simplified Hanzi/RSH2_23
+崩	Bēng	[1926] crumble
+岩	Yán	[1927] rock
+峭	qiào	[1928] precipitous
+崎	Qí	[1929] rugged
+崖	Yá	[1930] cliff
+灿	Càn	[1931] brilliant
+炭	Tàn	[1932] charcoal
+碳	Tàn	[1933] carbon
+岂	Qǐ	[1934] (rhetorical question)
+凯	Kǎi	[1935] triumphant
+峡	Xiá	[1936] gorge (n.)
+崔	Cuī	[1937] Cui
+摧	Cuī	[1938] wreck (v.)
+逆	Nì	[1939] go against
+溯	Sù	[1940] go upstream
+塑	Sù	[1941] plastic (n.)
+盼	Pàn	[1942] await hopefully
+颁	Bān	[1943] promulgate
+芬	Fēn	[1944] essence
+扮	Bàn	[1945] play the part of
+岔	Chà	[1946] diverge
+颂	Sòng	[1947] extol
+讼	Sòng	[1948] litigate
+滚	Gǔn	[1949] trundle (v.)
+翁	Wēng	[1950] elderly man
+嗡	weng	[1951] buzzing (n.)
+裕	Yù	[1952] abundant
+榕	Róng	[1953] banyan
+熔	róng	[1954] fuse (v.)
+//Remembering Simplified Hanzi/RSH2_24
+裳	shang	[1955] raiment
+掌	Zhǎng	[1956] palm of the hand
+撑	Chēng	[1957] prop up
+膛	Táng	[1958] chest
+颇	Pō	[1959] quite
+坡	Pō	[1960] slope (n.)
+披	Pī	[1961] drape over the shoulders
+菠	Bō	[1962] spinach
+歼	Jiān	[1963] annihilate
+殖	Zhí	[1964] breed (v.)
+殊	Shū	[1965] dissimilar
+残	Cán	[1966] incomplete
+咧	Lie	[1967] grin (v.)
+裂	Liè	[1968] crack (v.)
+毙	Bì	[1969] die a violent death
+耿	Gěng	[1970] dedicated
+辑	Ji	[1971] edit
+耻	Chǐ	[1972] shame (n.)
+摄	Shè	[1973] take a photo
+聪	Cōng	[1974] smart
+娶	Qǔ	[1975] take a wife
+蔓	wàn	[1976] creeping vine
+肤	Fū	[1977] skin (n.)
+扶	Fú	[1978] lend a hand
+潜	Qián	[1979] submerge
+卧	Wò	[1980] for sleeping
+藏	Cáng	[1981] hide (v.)
+熙	Xī	[1982] splendid
+勋	Xūn	[1983] merit (n.)
+劣	Liè	[1984] inferior
+募	Mù	[1985] recruit (v.)
+劝	Quàn	[1986] advise
+劫	Jié	[1987] plunder (v.)
+抛	Pāo	[1988] toss (v.)
+胁	Xié	[1989] threaten
+怒	Nù	[1990] anger (n.)
+茄	Jiā	[1991] eggplant
+彻	Chè	[1992] thorough
+征	Zhēng	[1993] solicit
+惩	Chéng	[1994] chasten
+徒	Tú	[1995] follower
+徊	Huái	[1996] undecided
+役	Yì	[1997] service
+循	Xún	[1998] comply with
+彼	Bǐ	[1999] the other
+衍	Yǎn	[2000] develop
+衡	Héng	[2001] weight
+衔	Xián	[2002] title
+//Remembering Simplified Hanzi/RSH2_25
+秃	Tū	[2003] bald
+颓	Tuí	[2004] decrepit
+秒	Miǎo	[2005] seconds
+稍	Shāo	[2006] a little (adj.)
+稣	Sū	[2007] rise again
+稿	Gǎo	[2008] draft (n.)
+稠	Chóu	[2009] dense
+颖	Yǐng	[2010] clever
+稼	Jia	[2011] crops
+税	Shuì	[2012] tax (n.)
+稚	Zhì	[2013] immature
+菌	Jūn	[2014] fungus
+穗	Suì	[2015] ear of grain
+秘	Mì	[2016] confidential
+私	Sī	[2017] private (adj.)
+秩	Zhì	[2018] order (n.)
+锹	Qiāo	[2019] shovel (n.)
+梨	Lí	[2020] pear
+犁	Lí	[2021] plow (n.)
+萎	Wēi	[2022] wilt
+黏	Nián	[2023] sticky
+黎	Lí	[2024] host (n.)
+膝	Xī	[2025] knees
+漆	Qī	[2026] wall paint
+锈	Xiù	[2027] rust (n./v.)
+眯	Mī	[2028] squint (v.)
+糊	Hu	[2029] batter
+粘	Zhān	[2030] glue (v.)
+奥	Ào	[2031] of great depth
+澳	Ào	[2032] deep inlet
+懊	Ào	[2033] remorseful
+菊	Jú	[2034] chrysanthemum
+渊	Yuān	[2035] abyss
+粱	liáng	[2036] fine millet
+梁	Liáng	[2037] roof beam
+糙	Cāo	[2038] rough
+粒	Lì	[2039] grain
+糕	Gāo	[2040] cake
+蔽	Bì	[2041] shelter (n.)
+憋	biē	[2042] suppress
+撇	Piē	[2043] cast aside
+弊	Bì	[2044] fraud
+莱	Lái	[2045] lambsquarters
+搂	Lǒu	[2046] cuddle
+筑	Zhú	[2047] construct
+箩	Luó	[2048] bamboo basket
+笨	Bèn	[2049] stupid
+筒	Tǒng	[2050] tube
+箭	Jiàn	[2051] arrow
+筛	Shāi	[2052] sift
+筋	Jīn	[2053] tendon
+//Remembering Simplified Hanzi/RSH2_26
+伍	Wu	[2054] V
+仇	Chóu	[2055] animosity
+倡	Chàng	[2056] start (v.)
+伯	Bó	[2057] father's older brother
+仲	Zhòng	[2058] mid-
+仆	Pú	[2059] servant
+估	Gū	[2060] estimate (v.)
+侦	Zhēn	[2061] detect
+俱	Jù	[2062] altogether (adv.)
+佑	Yòu	[2063] bless
+佐	Zuǒ	[2064] assistant
+侧	Cè	[2065] lateral (adj.)
+亿	Yì	[2066] one hundred million
+仔	Zǐ	[2067] meticulous
+倚	Yǐ	[2068] count on
+俏	Qiào	[2069] comely
+佳	Jiā	[2070] superb
+侍	Shì	[2071] serve (n.)
+伙	Huǒ	[2072] mate
+倘	Tǎng	[2073] if
+宿	Sù	[2074] stay overnight
+伏	Fú	[2075] bend over
+袱	Fu	[2076] wrapping cloth (v.)
+偷	Tōu	[2077] steal
+偿	Cháng	[2078] repay
+伐	Fá	[2079] fell
+佩	Pèi	[2080] wear at the waist
+侨	Qiáo	[2081] live abroad
+倾	Qīng	[2082] incline (v.)
+伦	Lún	[2083] human relationships
+侮	Wǔ	[2084] insult (v.)
+倍	Bèi	[2085] times
+仿	Fǎng	[2086] mimic (v.)
+傲	Ào	[2087] haughty
+僧	Sēng	[2088] Buddhist monk
+囚	qiú	[2089] prisoner
+悠	Yōu	[2090] without haste
+侄	Zhí	[2091] nephew
+仙	Xian	[2092] immortal (n.)
+傍	Bàng	[2093] close to 
+催	Cuī	[2094] prod (v.)
+俗	Sú	[2095] custom
+侠	Xiá	[2096] chivalrous person
+俄	É	[2097] Russia
+聚	Jù	[2098] assemble
+符	Fú	[2099] symbol
+贷	Dài	[2100] loan (n.)
+荷	Hé	[2101] Holland
+杖	Zhàng	[2102] cane
+仗	Zhàng	[2103] battle (n.)
+丛	Cóng	[2104] thicket
+耸	Sǒng	[2105] shrug (v.)
+挫	Cuò	[2106] frustrate
+诬	Wū	[2107] charge falsely
+葛	Gé	[2108] kudzu
+褐	Hè	[2109] brown
+竭	Jié	[2110] use up
+歇	Xiē	[2111] take a rest
+揭	Jiē	[2112] reveal
+//Remembering Simplified Hanzi/RSH2_27
+淫	Yín	[2113] promiscuous
+凭	Píng	[2114] proof
+挺	Tǐng	[2115] erect (adj.)
+赎	Shú	[2116] redeem
+瓦	Wǎ	[2117] tile
+瓷	Cí	[2118] porcelain
+拟	Nǐ	[2119] simulate
+瓶	Píng	[2120] bottle
+宫	Gōng	[2121] palace
+铝	Lǚ	[2122] aluminum
+萤	Yíng	[2123] firefly
+莹	Yíng	[2124] lustrous
+蒙	Méng	[2125] Mongolia
+朦	Méng	[2126] dim (adj.)
+捞	Lāo	[2127] scoop up
+//Remembering Simplified Hanzi/RSH2_28
+旋	Xuán	[2128] whirl (v.)
+吻	Wěn	[2129] kiss (v.)
+匆	Cōng	[2130] hurriedly
+葱	Cōng	[2131] onion
+锡	Xī	[2132] tin
+惕	Tì	[2133] watchful
+卢	Lú	[2134] Louvre
+屉	tì	[2135] drawer
+屑	Xiè	[2136] bits
+尿	Niào	[2137] urine
+犀	Xī	[2138] rhinoceros
+迟	Chí	[2139] tardy
+刷	Shuā	[2140] brush (n./v.)
+漏	Lòu	[2141] leak (v.)
+屁	Pì	[2142] fart (n.)
+屈	Qū	[2143] knuckle under
+掘	Jué	[2144] excavate
+履	Lǚ	[2145] footwear
+屎	Shǐ	[2146] excrement
+屡	Lǚ	[2147] time and again
+屏	Píng	[2148] folding screen
+眉	Méi	[2149] eyebrows
+媚	Mèi	[2150] flatter
+昼	Zhòu	[2151] daylight
+启	Qǐ	[2152] enlighten
+肩	Jiān	[2153] shoulder (n.)
+妒	Dù	[2154] jealous of
+炉	Lú	[2155] stove
+芦	Lú	[2156] reeds
+扇	Shàn	[2157] fan (n.)
+//Remembering Simplified Hanzi/RSH2_29
+奈	Nài	[2158] can't help but
+款	Kuǎn	[2159] funds
+凛	lǐn	[2160] chilly
+祟	Suì	[2161] evil spirit
+祝	Zhù	[2162] wish well
+祥	Xiáng	[2163] propitious
+蔚	Wèi	[2164] luxuriant
+慰	Wèi	[2165] console (v.)
+蒜	Suàn	[2166] garlic
+棕	Zōng	[2167] palm tree
+宙	Zhòu	[2168] universe
+轴	Zhóu	[2169] axle
+袖	Xiù	[2170] sleeve
+庙	Miào	[2171] temple (adj.)
+笛	Dí	[2172] flute
+届	Jiè	[2173] fall due
+呻	Shēn	[2174] groan
+坤	Kūn	[2175] female
+审	Shěn	[2176] painstaking
+婶	Shěn	[2177] auntie
+畅	Chàng	[2178] smooth
+巢	Cháo	[2179] nest (n.)
+棵	Kē	[2180] flora
+裸	Luǒ	[2181] naked
+裹	Guǒ	[2182] envelop
+//Remembering Simplified Hanzi/RSH2_30
+析	Xī	[2183] analyze
+晰	Xī	[2184] distinct
+芹	Qín	[2185] celery
+祈	Qí	[2186] supplicate
+欣	Xīn	[2187] elated
+掀	Xiān	[2188] uncover
+惭	Cán	[2189] conscience-stricken
+崭	Zhǎn	[2190] towering
+浙	zhè	[2191] Zhejian Province
+誓	Shì	[2192] vow (n./v.)
+拆	Chāi	[2193] take apart
+炸	Zhà	[2194] blow up
+诈	Zhà	[2195] swindle
+归	Guī	[2196] come back
+皱	Zhòu	[2197] wrinkles
+煞	Shā	[2198] goblin
+趋	Qū	[2199] hasten
+雏	Chú	[2200] chick
+浸	Jìn	[2201] immerse
+寝	Qǐn	[2202] get some shuteye
+侵	Qīn	[2203] invade
+缘	Yuán	[2204] reason (n.)
+稳	Wěn	[2205] stable (adj.)
+挡	Dǎng	[2206] fend off
+剥	Bō	[2207] peel off
+秉	Bǐng	[2208] wield
+妻	Qī	[2209] wife
+凄	Qī	[2210] miserable
+捷	Jié	[2211] nimble
+肃	Sù	[2212] solemn
+啸	Xiào	[2213] howl (v.)
+萧	Xiāo	[2214] desolate
+兼	Jiān	[2215] double (adj.)
+赚	Zhuàn	[2216] earn
+嫌	Xián	[2217] dislike (v.)
+谦	Qiān	[2218] unassuming
+歉	Qiàn	[2219] apology
+廉	Lián	[2220] inexpensive
+镰	Lián	[2221] sickle
+睁	Zhēng	[2222] unshut (v.)
+挣	Zhēng	[2223] struggle (v.)
+筝	Zhēng	[2224] Chinese zither
+塘	Táng	[2225] pool (n.)
+隶	Lì	[2226] bondservant
+逮	Dǎi	[2227] arrest (v.)
+慷	Kāng	[2228] generous
+糠	Kāng	[2229] chaff
+笋	Sǔn	[2230] bamboo shoot
+耍	Shuǎ	[2231] mess around
+耐	Nài	[2232] -proof
+喘	Chuǎn	[2233] wheeze
+揣	Chuāi	[2234] conjecture (v.)
+槽	Cáo	[2235] trough
+遭	Zāo	[2236] meet with
+糟	Zāo	[2237] messed up
+抖	Dǒu	[2238] quiver (v.)
+//Remembering Simplified Hanzi/RSH2_31
+惜	Xī	[2239] rue (v.)
+措	Cuò	[2240] arrange
+腊	Là	[2241] dried meat
+蜡	Là	[2242] wax (n.)
+猎	Liè	[2243] hunt (v.)
+燕	Yàn	[2244] swallow (n.)
+遮	Zhē	[2245] screen (v.)
+畔	Pàn	[2246] littoral (n.)
+拌	Bàn	[2247] blend (v.)
+叛	Pàn	[2248] betray
+券	Quàn	[2249] voucher
+藤	Téng	[2250] rattan
+鼎	Dǐng	[2251] old cooking pot
+芝	Zhī	[2252] sesame
+贬	Biǎn	[2253] devalue
+泛	Fàn	[2254] nonspecific
+歪	Wāi	[2255] askew
+//Remembering Simplified Hanzi/RSH2_32
+矫	Jiǎo	[2256] rectify
+矮	Ǎi	[2257] short of stature
+唉	Āi	[2258] sigh--ay-ay
+埃	Āi	[2259] fine dust
+挨	Āi	[2260] suffer
+簇	Cù	[2261] cluster (n.)
+茅	Máo	[2262] thatch (n.)
+橘	Jú	[2263] tangerine
+舒	Shū	[2264] relax
+览	Lǎn	[2265] view (v.)
+揽	Lǎn	[2266] take on
+肾	Shèn	[2267] kidneys
+竖	Shù	[2268] perpendicular
+弘	Hóng	[2269] noble
+夷	Yí	[2270] barbarian
+姨	Yí	[2271] maternal aunt
+疆	Jiāng	[2272] dividing line
+僵	Jiāng	[2273] stiff (adj.)
+粥	Zhōu	[2274] porridge
+蝉	Chán	[2275] cicada
+褝	Dān	[2276] meditation
+沸	Fèi	[2277] bring to a boil
+拂	Fú	[2278] caress (v.)
+剃	Tì	[2279] shave (v.)
+递	Dì	[2280] hand over
+梯	Tī	[2281] ladder
+涕	Tì	[2282] snot
+朽	Xiǔ	[2283] decayed
+聘	Pìn	[2284] employ (v.)
+姊	Zǐ	[2285] elder sister
+亏	Kuī	[2286] loss
+污	Wū	[2287] filthy
+夸	Kuā	[2288] brag
+垮	Kuǎ	[2289] collapse (v.)
+挎	kuà	[2290] carry on the arm
+鳄	È	[2291] crocodile
+愕	È	[2292] stunned
+//Remembering Simplified Hanzi/RSH2_33
+躺	Tǎng	[2293] lie down
+躲	Duǒ	[2294] dodge (v.)
+躬	Gōng	[2295] stoop (v.)
+嗜	Shì	[2296] hanker
+姥	lǎo	[2297] maternal grandmother
+拷	Kǎo	[2298] flog
+屿	Yǔ	[2299] islet
+暑	Shǔ	[2300] summer heat
+睹	Dǔ	[2301] behold
+署	Shǔ	[2302] add your John Hancock
+薯	Shǔ	[2303] yam
+赌	Dǔ	[2304] gamble (v.)
+奢	Shē	[2305] extravagant
+堵	Dǔ	[2306] stop up
+煮	Zhǔ	[2307] boil (v.)
+诸	Zhū	[2308] various
+储	Chǔ	[2309] put in storage
+屠	Tú	[2310] slaughter
+棺	Guān	[2311] coffin
+爹	Diē	[2312] dad
+斧	Fǔ	[2313] axe
+咬	Yǎo	[2314] bite (v.)
+胶	Jiāo	[2315] gum
+狡	Jiǎo	[2316] sly
+捉	Zhuō	[2317] catch (v.)
+促	Cù	[2318] urge (v.)
+趴	Pā	[2319] prostrate oneself
+踏	Tà	[2320] trample
+践	Jiàn	[2321] tread on
+跃	Yuè	[2322] leap (v.)
+蹄	Tí	[2323] hoof
+踩	Cǎi	[2324] step on
+蹦	Bèng	[2325] hop (v.)
+跌	Diē	[2326] slump (v.)
+踢	Tī	[2327] kick (v.)
+踪	Zōng	[2328] tracks
+跨	Kuà	[2329] straddle (v.)
+躁	Zào	[2330] impetuous
+噪	Zào	[2331] chirping (n.)
+澡	Zǎo	[2332] bath
+藻	Zǎo	[2333] algae
+燥	Zào	[2334] parched
+操	Cāo	[2335] exercise (n.)
+猾	Huá	[2336] cunning
+髓	Suǐ	[2337] marrow
+//Remembering Simplified Hanzi/RSH2_34
+陌	Mò	[2338] footpath
+隙	Xì	[2339] rift (n.)
+陡	Dǒu	[2340] steep
+陪	Péi	[2341] accompany
+障	Zhàng	[2342] barrier
+隧	Suì	[2343] tunnel (n.)
+陋	Lòu	[2344] undesirable
+隐	Yǐn	[2345] hidden
+陕	shǎn	[2346] Shaanxi Province
+陵	Líng	[2347] mausoleum
+棱	léng	[2348] edge (n.)
+菱	Líng	[2349] water caltrop
+凌	Líng	[2350] bully (v.)
+融	Róng	[2351] melt
+隔	Gé	[2352] separate (v.)
+窃	Qiè	[2353] pilfer
+挖	Wā	[2354] dig (v.)
+帘	Lián	[2355] drapes
+窥	Kuī	[2356] peep (v.)
+穷	Qiǒng	[2357] poor
+窄	Zhǎi	[2358] strait (adj.)
+榨	Zhà	[2359] extract (v.)
+窟	Kū	[2360] den
+窘	Jiǒng	[2361] poverty-stricken
+窜	Cuàn	[2362] scurry
+腔	Qiāng	[2363] body cavity
+窝	Wō	[2364] hollow (n.)
+涡	Wō	[2365] whirlpool
+锅	Guō	[2366] pot
+祸	Huò	[2367] misfortune
+蜗	Wō	[2368] snail
+宾	Bīn	[2369] visitor
+滨	Bīn	[2370] water's edge
+//Remembering Simplified Hanzi/RSH2_35
+绷	bēng	[2371] stretch taut
+纤	Xiān	[2372] fiber
+绰	Chuò	[2373] ample
+绍	Shào	[2374] acquaint
+纱	Shā	[2375] yarn
+络	Luò	[2376] web
+绸	Chóu	[2377] silk fabric
+绒	Róng	[2378] down (n.)
+绕	Rào	[2379] go around
+绽	zhàn	[2380] split at the seams
+绵	Mián	[2381] continuous
+缔	Dì	[2382] conclude
+纺	Fǎng	[2383] spin (v.)
+缠	Chán	[2384] wind around
+绘	Huì	[2385] paint (v.)
+纷	Fēn	[2386] disorderly
+绣	Xiù	[2387] embroidery
+缕	lǚ	[2388] in detail
+缩	Suō	[2389] shrink (v.)
+纳	Nà	[2390] let in
+综	Zōng	[2391] sum up
+绅	Shēn	[2392] gentry
+绪	Xù	[2393] inception
+绞	Jiǎo	[2394] wring
+缓	Huǎn	[2395] unhurried
+暖	Nuǎn	[2396] warm (adj.)
+援	Yuán	[2397] provide assistance
+绢	juàn	[2398] tough silk
+捐	Juān	[2399] contribute
+缴	Jiǎo	[2400] shell out
+邀	Yāo	[2401] request the presence of
+缆	Lǎn	[2402] cable (n.)
+哟	Yō	[2403] Oh!
+颈	Jǐng	[2404] neck (n.)
+茎	Jīng	[2405] plant stem
+径	Jìng	[2406] trail (n.)
+劲	Jìng	[2407] powerful
+幼	Yòu	[2408] young
+溪	Xī	[2409] creek
+幽	Yōu	[2410] secluded
+玄	Xuán	[2411] mysterious
+弦	Xián	[2412] bowstring
+畜	Chù	[2413] livestock
+蓄	Xù	[2414] save up
+磁	Cí	[2415] magnetism
+滋	Zī	[2416] nourish
+慈	Cí	[2417] kindhearted
+累	Lèi	[2418] tired
+螺	Luó	[2419] spiral shell
+紫	Zǐ	[2420] purple
+繁	Fán	[2421] numerous
+絮	Xù	[2422] long-winded
+索	Suǒ	[2423] large rope
+脖	Bó	[2424] head-hinge
+勃	Bó	[2425] vibrant
+//Remembering Simplified Hanzi/RSH2_36
+卸	Xiè	[2426] unload
+御	Yù	[2427] withstand
+卵	Luǎn	[2428] nest eggs
+孵	Fū	[2429] hatch (v.)
+乳	Rǔ	[2430] breast
+浮	Fú	[2431] float (v.)
+俘	Fú	[2432] captive
+榴	Liú	[2433] pomegranate
+爷	Yé	[2434] grandfather
+疑	Yí	[2435] doubt (v.)
+凝	Níng	[2436] congeal
+玲	Líng	[2437] exquisite
+铃	Líng	[2438] small bell
+//Remembering Simplified Hanzi/RSH2_34
+怜	Lián	[2439] pity (v.)
+//Remembering Simplified Hanzi/RSH2_36
+岭	Lǐng	[2440] mountain range
+伶	Líng	[2441] actor
+涌	Yǒng	[2442] gush (v.)
+桶	Tǒng	[2443] bucket
+诵	Sòng	[2444] read aloud
+范	Fàn	[2445] model
+扼	è	[2446] clutch (v.)
+卷	Juàn	[2447] exam paper
+倦	Juàn	[2448] worn out
+圈	Quān	[2449] circle (n.)
+怨	Yuàn	[2450] resentment
+宛	Wǎn	[2451] winding (adj.)
+腕	Wàn	[2452] wrist
+婉	Wǎn	[2453] tactful
+碗	Wǎn	[2454] bowl
+苍	Cāng	[2455] ash-colored
+抢	Qiǎng	[2456] rob
+诡	Guǐ	[2457] deceitful
+跪	Guì	[2458] kneel
+舆	Yú	[2459] popular
+//Remembering Simplified Hanzi/RSH2_37
+酌	Zhuó	[2460] pour wine
+酬	Chóu	[2461] reward (n./v.)
+酷	Kù	[2462] brutal
+醇	Chún	[2463] mellow wine
+醋	Cù	[2464] vinegar
+酱	Jiàng	[2465] thick sauce
+奖	Jiǎng	[2466] award (n.)
+浆	Jiāng	[2467] thick liquid
+桨	Jiǎng	[2468] oar
+蒋	Jiǎng	[2469] Jiang
+醉	Zuì	[2470] drunk
+碎	Suì	[2471] shattered
+翠	Cuì	[2472] emerald green
+粹	Cuì	[2473] unmixed
+酸	Suān	[2474] sour
+梭	Suō	[2475] shuttle (n.)
+峻	Jùn	[2476] lofty
+俊	jùn	[2477] handsome
+奠	Diàn	[2478] found (v.)
+蹲	Dūn	[2479] squat (v.)
+逗	Dòu	[2480] tease (v.)
+橱	chú	[2481] closet
+嘻	Xī	[2482] giggling
+嘉	Jiā	[2483] commend
+盟	Méng	[2484] alliance
+孟	Mèng	[2485] Mencius
+猛	Měng	[2486] fierce
+盐	Yán	[2487] salt (n.)
+盔	kuī	[2488] helmet
+盒	Hé	[2489] small box
+盛	Shèng	[2490] flourishing
+盏	Zhǎn	[2491] small cup
+盗	Dào	[2492] master thief
+磕	kē	[2493] collide with
+盈	Yíng	[2494] replete
+盆	Pén	[2495] basin
+蕴	Yùn	[2496] amass
+鉴	Jiàn	[2497] probe (v.)
+滥	Làn	[2498] indiscriminate
+尴	Gān	[2499] abashed
+尬	Gà	[2500] embarrassed
+沈	Shěn	[2501] Shen
+枕	Zhěn	[2502] pillow
+耽	Dān	[2503] indulge in
+衅	Xìn	[2504] quarrel (n.)
+垦	Kěn	[2505] reclaim
+狠	Hěn	[2506] ruthless
+恳	Kěn	[2507] wholeheartedly
+艰	Jiān	[2508] arduous
+爵	Jué	[2509] upper crust
+嚼	Jiáo	[2510] chew (v.)
+卿	Qīng	[2511] minister
+恨	Hèn	[2512] hate (v.)
+朗	Lǎng	[2513] lucent
+狼	Láng	[2514] wolf
+粮	Liáng	[2515] provisions
+酿	Niàng	[2516] brew (v.)
+饥	Jī	[2517] starving
+饶	Ráo	[2518] spare (v.)
+饰	Shì	[2519] ornaments
+饮	Yǐn	[2520] beverage
+蚀	Shí	[2521] eat away
+饱	Bǎo	[2522] sated
+馒	Mán	[2523] bread
+饼	Bǐng	[2524] cookie
+饺	Jiǎo	[2525] dumpling
+饿	È	[2526] hungry
+溉	Gài	[2527] irrigate
+慨	Kǎi	[2528] incensed
+//Remembering Simplified Hanzi/RSH2_38
+苹	Píng	[2529] apple
+萍	Píng	[2530] duckweed
+秤	Chèng	[2531] scale (n.)
+淆	Yáo	[2532] confuse
+艾	Ài	[2533] Chinese mugwort
+哎	Āi	[2534] Good grief!
+赵	Zhào	[2535] Zhao
+攀	Pān	[2536] climb (v.)
+刹	Shā	[2537] brake (v.)
+枫	Fēng	[2538] maple
+钢	Gāng	[2539] steel
+岗	Gǎng	[2540] hillock
+纲	Gāng	[2541] guidelines
+屯	Tún	[2542] stockpile (v.)
+吨	Dūn	[2543] ton
+顿	Dùn	[2544] pause (n./v.)
+纯	Chún	[2545] unadulterated
+齿	Chǐ	[2546] teeth
+龄	Líng	[2547] length of service
+汹	Xiōng	[2548] turbulent
+篱	Lí	[2549] fence
+仪	Yí	[2550] rite
+辜	Gū	[2551] crime
+辞	Cí	[2552] phraseology
+宰	Zǎi	[2553] butcher (v.)
+辨	Biàn	[2554] differentiate
+辫	Biàn	[2555] braid (n.)
+臂	Bì	[2556] arm (n.)
+劈	Pī	[2557] split (v.)
+譬	Pì	[2558] analogy
+僻	Pì	[2559] out-of-the-way
+纠	Jiū	[2560] entangle
+咳	Ké	[2561] cough (v.)
+嚷	Rǎng	[2562] cry out
+镶	xiāng	[2563] inlay (v.)
+塞	Sài	[2564] stronghold
+寨	Zhài	[2565] stockade
+//Remembering Simplified Hanzi/RSH2_39
+晴	Qíng	[2566] sunny
+猜	Cāi	[2567] guess
+靖	Jìng	[2568] pacify
+债	Zhài	[2569] debt
+牲	Shēng	[2570] domestic animal
+隆	Lóng	[2571] impressive
+腥	Xīng	[2572] fishy smell
+猩	Xīng	[2573] orangutan
+醒	Xǐng	[2574] awaken
+涛	Shòu	[2575] longevity
+畴	chóu	[2576] farmland
+铸	Tāo	[2577] large waves
+祷	Zhù	[2578] cast (v.)
+筹	Dǎo	[2579] pray
+伺	Chóu	[2580] make arrangements
+契	Qì	[2581] contract (n.)
+拜	Bài	[2582] adore
+锋	Fēng	[2583] cutting edge
+逢	Féng	[2584] chance upon
+缝	Féng	[2585] sew
+蓬	Péng	[2586] disheveled
+篷	péng	[2587] awning
+蜂	Fēng	[2588] bee
+峰	Fēng	[2589] peak (n.)
+瞎	Xiā	[2590] visionless
+辖	Xiá	[2591] administer
+豁	huō	[2592] breach (n.)
+韩	Hán	[2593] Korea
+违	Wéi	[2594] disobey
+纬	Wěi	[2595] latitude
+奏	Zòu	[2596] play an instrument
+凑	Còu	[2597] gather together
+秦	Qín	[2598] Qin
+蠢	Chǔn	[2599] foolish
+泽	Zé	[2600] swamp (n.)
+译	Yì	[2601] translate
+择	Zé	[2602] select (v.)
+捧	Pěng	[2603] carry in both hands
+砖	Zhuān	[2604] brick
+唾	Tuò	[2605] saliva
+//Remembering Simplified Hanzi/RSH2_40
+吟	Yín	[2606] recite
+贪	Tān	[2607] greedy
+琴	Qín	[2608] stringed instrument
+炼	Liàn	[2609] refine
+晒	Shài	[2610] bask
+洒	Sǎ	[2611] spill (v.)
+栖	Qī	[2612] perch (v.)
+栗	Lì	[2613] chestnut
+牺	Xī	[2614] sacrifice (v.)
+潭	Tán	[2615] deep pool
+覆	Fù	[2616] overturn
+飘	Piāo	[2617] flutter (v.)
+献	Xiàn	[2618] donate
+//Remembering Simplified Hanzi/RSH2_41
+阔	Kuò	[2619] broad
+润	Rùn	[2620] moisten
+阁	Gé	[2621] cabinet
+搁	Gē	[2622] put aside
+闹	Nào	[2623] stir up trouble
+阅	Yuè	[2624] peruse
+闷	Mēn	[2625] stuffy
+闭	Bì	[2626] close (v.)
+闪	Shǎn	[2627] flash (v.)
+阀	Fá	[2628] valve
+闸	Zhá	[2629] floodgate
+阐	Chǎn	[2630] explicate
+涧	jiàn	[2631] ravine
+菲	Fěi	[2632] humble (adj.)
+辈	Bèi	[2633] lifetime
+悲	Bēi	[2634] sad
+徘	Pái	[2635] irresolute
+喉	Hóu	[2636] gullet
+猴	Hóu	[2637] monkey
+//Remembering Simplified Hanzi/RSH2_42
+肝	Gān	[2638] liver
+刊	Kān	[2639] publication
+奸	Jiān	[2640] adultery
+汗	Hàn	[2641] sweat (n.)
+杆	Gǎn	[2642] shaft
+轩	Xuān	[2643] veranda
+罕	Hǎn	[2644] rarely
+竿	Gān	[2645] pole
+悍	Hàn	[2646] bold
+吁	Yù	[2647] plead
+涂	Tú	[2648] smear (v.)
+叙	Xù	[2649] recount (v.)
+徐	Xú	[2650] slowly
+斜	Xié	[2651] slanting
+喇	Lǎ	[2652] flared horn
+嗽	Sòu	[2653] hack (v.)
+赖	Lài	[2654] rely on
+懒	Lǎn	[2655] lazy
+嫩	Nèn	[2656] tender (adj.)
+董	Dǒng	[2657] director
+//Remembering Simplified Hanzi/RSH2_43
+疗	Liáo	[2658] cure (v.)
+痰	Tán	[2659] phlegm
+症	Zhèng	[2660] disease
+疼	Téng	[2661] hurt (v.)
+痒	Yǎng	[2662] itch (v.)
+瘫	Tān	[2663] paralysis
+疫	Yì	[2664] epidemic
+癌	Ái	[2665] cancer
+疲	Pí	[2666] fatigued
+痴	Chī	[2667] idiotic
+瘤	Liú	[2668] tumor
+疮	Chuāng	[2669] sore (n.)
+疾	Jí	[2670] rapid
+瘾	Yǐn	[2671] addiction
+痕	Hén	[2672] trace (n.)
+汇	Huì	[2673] converge
+框	Kuàng	[2674] rectangular frame
+筐	Kuāng	[2675] rectangular basket
+砸	Zá	[2676] smash (v.)
+匠	Jiàng	[2677] artisan
+匪	Fěi	[2678] bandit
+匿	Nì	[2679] keep out of sight
+兜	Dōu	[2680] pocket
+巨	Jù	[2681] gigantic
+柜	Guì	[2682] cupboard
+渠	Qú	[2683] canal
+拒	Jù	[2684] refuse (v.)
+矩	Jǔ	[2685] square (n.)
+距	Jù	[2686] distance
+殴	Ōu	[2687] hit (v.)
+呕	Ǒu	[2688] vomit (v.)
+躯	Qū	[2689] human body
+昂	Áng	[2690] hold one's head high
+抑	Yì	[2691] curb (v.)
+葵	Kuí	[2692] large-flowered plants
+瞪	Dèng	[2693] glare (v.)
+凳	Dèng	[2694] bench
+澄	Chéng	[2695] transparent
+僚	Liáo	[2696] coworker
+拨	Bō	[2697] allocate
+泼	Pō	[2698] splash (v.)
+拔	Bá	[2699] pull out
+//Remembering Simplified Hanzi/RSH2_44
+杉	Chān	[2700] fir tree
+彬	Bīn	[2701] well-mannered
+衫	Shān	[2702] shirt
+彰	Zhāng	[2703] manifest (adj.)
+膨	Péng	[2704] puffy
+渗	Shèn	[2705] seep
+诊	Zhěn	[2706] diagnose
+趁	Chèn	[2707] take advantage of
+寥	Liáo	[2708] deserted
+谬	Miù	[2709] wrong (adj.)
+铲	Chǎn	[2710] small shovel
+萨	Sà	[2711] Samoa
+刘	Liú	[2712] Liu
+坟	Fén	[2713] tomb
+纹	Wén	[2714] design (n.)
+斋	Zhāi	[2715] abstain from food
+斑	Bān	[2716] speck
+剂	Jì	[2717] pharmaceutical (n.)
+挤	Jǐ	[2718] squeeze (v.)
+脊	Jǐ	[2719] backbone
+函	Hán	[2720] letter
+涵	Hán	[2721] culvert
+映	Yìng	[2722] reflect
+殃	Yāng	[2723] calamity
+秧	yāng	[2724] youngling
+焕	Huàn	[2725] glowing
+肥	Féi	[2726] plump
+爬	Pá	[2727] crawl (v.)
+疤	Bā	[2728] scar (n.)
+//Remembering Simplified Hanzi/RSH2_45
+甜	Tián	[2729] sugary
+嵌	qiàn	[2730] set (v.)
+钳	Qián	[2731] pliers
+媒	Méi	[2732] matchmaker
+煤	Méi	[2733] coal
+谋	Móu	[2734] scheme (v.)
+棋	Qí	[2735] chess
+欺	Qī	[2736] dupe (v.)
+旗	Qí	[2737] flag (n.)
+嘶	Sī	[2738] hoarse
+撕	Sī	[2739] rip (v.)
+堪	Kān	[2740] tolerate
+勘	Kān	[2741] survey (v.)
+遣	Qiǎn	[2742] dispatch (v.)
+谴	Qiǎn	[2743] censure (v.)
+囊	Náng	[2744] sack (n.)
+溃	Kuì	[2745] burst (v.)
+//Remembering Simplified Hanzi/RSH2_46
+宜	Yi	[2746] fitting (adj.)
+谊	Yì	[2747] friendship
+租	Zū	[2748] rent (n./v.)
+粗	Cū	[2749] coarse
+阻	Zǔ	[2750] block (v.)
+桑	Sāng	[2751] mulberry tree
+嗓	Sǎng	[2752] voicebox
+叠	Dié	[2753] heap (v.)
+锄	Chú	[2754] hoe (n./v.)
+碰	Pèng	[2755] bump (v.)
+谱	Pǔ	[2756] musical score
+壶	Hú	[2757] kettle
+凿	Záo	[2758] bore a hole
+湿	Shī	[2759] wet
+哑	Yǎ	[2760] mute (adj.)
+晋	Jìn	[2761] promote
+哄	Hōng	[2762] fool (v.)
+洪	Hóng	[2763] deluge
+烘	Hōng	[2764] warm by a fire
+戴	Dài	[2765] have on
+翼	Yì	[2766] wings
+恭	Gōng	[2767] respectful
+拱	Gǒng	[2768] arch (n./v.)
+撰	Zhuàn	[2769] compose
+粪	Fèn	[2770] dung
+殿	Diàn	[2771] ceremonial hall
+暴	Bào	[2772] violent
+瀑	Pù	[2773] waterfall
+爆	Bào	[2774] explode
+//Remembering Simplified Hanzi/RSH2_47
+拥	Yōng	[2775] hug (v.)
+佣	Yōng	[2776] put to work
+甩	Shuǎi	[2777] fling (v.)
+庸	Yōng	[2778] mediocre
+触	Chù	[2779] touch (v.)
+蟹	Xiè	[2780] crab (n.)
+懈	Xiè	[2781] lax
+册	Cè	[2782] Vol.
+删	Shān	[2783] delete
+栅	Zhà	[2784] palisade
+珊	Shān	[2785] coral
+遍	Biàn	[2786] everywhere
+偏	Piān	[2787] partial
+//Remembering Simplified Hanzi/RSH2_48
+抵	Dǐ	[2788] resist
+氓	Máng	[2789] hoodlum
+哺	Bǔ	[2790] breastfeed
+浦	Pǔ	[2791] river mouth
+蒲	Pú	[2792] cattail
+薄	Bó	[2793] slight (adj.)
+铺	Pù	[2794] shop (n.)
+捕	Bǔ	[2795] capture
+敷	Fū	[2796] apply
+脯	pú	[2797] shoulder to wrist
+傅	Fù	[2798] mentor
+缚	Fù	[2799] bind fast
+簿	Bù	[2800] register (n.)
+郁	Yù	[2801] depressed
+郭	Guō	[2802] outer walls
+廓	Kuò	[2803] limitless
+邓	Dèng	[2804] Deng
+鄙	Bǐ	[2805] despicable
+耶	Yē	[2806] Jerusalem
+邮	Yóu	[2807] post (v.)
+邦	Bāng	[2808] nation
+绑	Bǎng	[2809] truss (v.)
+郊	Jiāo	[2810] outskirts
+邻	Lín	[2811] neighbor
+廊	Láng	[2812] hallway
+//Remembering Simplified Hanzi/RSH2_49
+缎	Duàn	[2813] satin
+刁	Diāo	[2814] wily
+叼	Diāo	[2815] hold in the mouth
+钙	gài	[2816] calcium
+寿	Yín	[2817] ardent
+饲	Cì	[2818] attend to
+舶	Sì	[2819] rear (v.)
+航	Bó	[2820] linter
+舱	Jiàn	[2821] warship
+艇	Háng	[2822] navigate
+舵	duò	[2823] rudder
+沿	Cāng	[2824] ship's cabin
+舰	Tǐng	[2825] light boat
+铅	Yán	[2826] along (prep.)
+殷	Qiān	[2827] lead (n.)
+狐	Hú	[2828] fox
+瓣	Bàn	[2829] petal
+//Remembering Simplified Hanzi/RSH2_50
+溢	Yì	[2830] brim over
+隘	ài	[2831] pass (n.)
+霞	Xiá	[2832] red sky
+氨	ān	[2833] ammonia
+氧	Yǎng	[2834] oxygen
+氛	Fēn	[2835] atmosphere
+氢	Qīng	[2836] hydrogen
+氯	Lǜ	[2837] chlorine
+霸	Bà	[2838] tyrant
+靴	Xuē	[2839] boots
+鞭	Biān	[2840] whip (n./v.)
+鞠	Jū	[2841] bow respectfully
+//Remembering Simplified Hanzi/RSH2_51
+芽	Yá	[2842] sprout (n.)
+讶	Yà	[2843] surprised
+雅	Yǎ	[2844] polished
+邪	Xié	[2845] wicked
+悉	Xī	[2846] be informed
+毯	Tǎn	[2847] blanket (n.)
+毫	Háo	[2848] milli-
+耗	Hào	[2849] consume
+耕	Gēng	[2850] till (v.)
+籍	Jí	[2851] records
+藉	jí	[2852] in disorder
+畏	Wèi	[2853] be afraid of
+喂	Wèi	[2854] Hello...
+胀	Zhàng	[2855] bloated
+帐	Zhàng	[2856] tent
+//Remembering Simplified Hanzi/RSH2_52
+誉	Yù	[2857] reputation
+剑	Jiàn	[2858] saber
+敛	Liǎn	[2859] restrain
+捡	Jiǎn	[2860] pick up (v.)
+俭	Jiǎn	[2861] thrifty
+签	Qiān	[2862] sign (v.)
+鹏	Péng	[2863] roc
+鸣	Míng	[2864] twitter (v.)
+鸿	Hóng	[2865] swan
+莺	Yīng	[2866] oriole
+鸽	Gē	[2867] pigeon
+鹤	Hè	[2868] crane
+鹊	Què	[2869] magpie
+鸥	Ōu	[2870] gull
+鹅	É	[2871] goose
+鸦	Yā	[2872] raven
+乌	Wū	[2873] crow
+呜	Wū	[2874] zoom-zoom
+捣	Dǎo	[2875] pound with a pestle
+寓	Yù	[2876] residence
+愚	Yú	[2877] pea-brained
+偶	Ǒu	[2878] by chance
+缸	Gāng	[2879] vat
+窑	Yáo	[2880] kiln
+罐	Guàn	[2881] jar
+灌	Guàn	[2882] pour into
+陶	Táo	[2883] pottery
+淘	Táo	[2884] wash in a container
+掏	Tāo	[2885] draw out
+谣	Yáo	[2886] rumor
+冤	Yuān	[2887] injstice
+挽	Wǎn	[2888] tow (v.)
+勉	Miǎn	[2889] strive
+馋	Chán	[2890] gluttonous
+橡	Xiàng	[2891] rubber tree
+豫	Yù	[2892] pleased
+//Remembering Simplified Hanzi/RSH2_53
+码	Mǎ	[2893] numeral
+驯	Xún	[2894] tame (adj./v.)
+玛	Mǎ	[2895] Matteo
+驻	Zhù	[2896] be stationed
+骄	Jiāo	[2897] arrogant
+驰	Chí	[2898] gallop (v.)
+蚂	Mǎ	[2899] leech-hopper
+驶	Shǐ	[2900] maneuver (v.)
+骚	Sāo	[2901] disturb
+驾	Jià	[2902] drive (v.)
+驴	Lǘ	[2903] donkey
+腾	Téng	[2904] take flight
+骡	Luó	[2905] mule
+骤	Zhòu	[2906] trot (v.)
+闯	Chuǎng	[2907] rush (v.)
+驱	Qū	[2908] drive away
+驳	Bó	[2909] refute
+骗	Piàn	[2910] cheat (v.)
+唬	hǔ	[2911] bluff
+虏	Lǔ	[2912] take captive
+虐	Nüè	[2913] despotic
+滤	Lǜ	[2914] filter (v.)
+//Remembering Simplified Hanzi/RSH2_54
+瞬	Shùn	[2915] instant
+麟	Lín	[2916] Chinese unicorn
+磷	lín	[2917] phosphorous
+唇	Chún	[2918] lips
+辱	Rǔ	[2919] disgrace (n./v.)
+震	Zhèn	[2920] quake (v.)
+振	Zhèn	[2921] vibrate
+郑	Zhèng	[2922] Zheng
+掷	Zhì	[2923] hurl
+魄	Pò	[2924] vigor
+槐	Huí	[2925] scholar tree
+魅	Mèi	[2926] enchant
+瑰	Guī	[2927] marvelous
+魂	Hún	[2928] soul
+愧	Kuì	[2929] ashamed
+魁	Kuí	[2930] leader
+胧	lóng	[2931] hazy
+垄	Lǒng	[2932] raised path between fields
+宠	Chǒng	[2933] dote on
+庞	Páng	[2934] huge
+拢	Lǒng	[2935] draw near
+聋	Lóng	[2936] deaf
+笼	Lóng	[2937] cage (n.)
+//Remembering Simplified Hanzi/RSH2_55
+挪	Nuó	[2938] transfer (v.)
+辆	Liàng	[2939] vehicles
+瞒	Mán	[2940] dissemble
+龟	Guī	[2941] tortoise
+蝇	Yíng	[2942] flies
+绳	Shéng	[2943] rope (n.)
+淹	Yān	[2944] inundate
+俺	Ǎn	[2945] we (exclusive)
+钮	Niǔ	[2946] push button (n.)
+羞	Xiū	[2947] shy
+纽	Niǔ	[2948] New York
+赫	Hè	[2949] illustrious
+奕	Yì	[2950] radiating vitality
+迹	Jì	[2951] indication
+蛮	Mán	[2952] barbaric
+啤	Pí	[2953] beer
+脾	Pí	[2954] spleen
+碑	Bēi	[2955] stele
+嘱	Zhǔ	[2956] admonish
+肆	Sì	[2957] IV
+插	Chā	[2958] insert (v.)
+毁	Huǐ	[2959] ruin (v.)
+鼠	Shǔ	[2960] mouse
+舅	Jiù	[2961] mother's brother
+滔	Tāo	[2962] surging
+稻	Dào	[2963] unhulled rice
+蹈	Dǎo	[2964] tread (v.)
+嫂	Sǎo	[2965] elder brother's wife
+搜	Sōu	[2966] search (v.)
+瘦	Shòu	[2967] emaciated
+艘	Sōu	[2968] vessels
+焰	Yàn	[2969] flame (n.)
+馅	Xiàn	[2970] filling
+陷	Xiàn	[2971] get stuck
+爽	Shuǎng	[2972] frank (adj.)
+缀	Zhuì	[2973] embellish
+傻	Shǎ	[2974] thick-headed
+//Remembering Simplified Hanzi/RSH2_Compounds
+蝴	Hú	[2975] butterfly (front end)
+蝶	Dié	[2976] butterfly (back end)
+蜘	Zhī	[2977] spider (front end)
+蛛	Zhū	[2978] spider (back end)
+骆	Luò	[2979] camel (front end)
+驮	Tuó	[2980] camel (back end)
+蜻	Qīng	[2981] dragonfly (front end)
+蜓	Tíng	[2982] dragonfly (back end)
+凤	Fèng	[2983] male phoenix
+凰	Huáng	[2984] female phoenix
+玻	Bō	[2985] glass (front side)
+璃	Lí	[2986] glass (back side)
+橄	Gǎn	[2987] olive (A)
+榄	Lǎn	[2988] olive (B)
+芙	Fú	[2989] hibiscus (A)
+蓉	Róng	[2990] cottonrose hibiscus (B)
+咖	Kā	[2991] coffee (first drop)
+啡	Fēi	[2992] coffee (last drop)
+葡	Pú	[2993] grapes (A)
+萄	Táo	[2994] grapes (B)
+蘑	mó	[2995] mushroom (cap)
+菇	gu	[2996] mushroom (stem)
+吩	Fēn	[2997] in-
+咐	Fù	[2998] -struct
+乒	Pīng	[2999] ping
+乓	Pāng	[3000] pong
+//Remembering Simplified Hanzi/RSH2_Postscript_1
+曹	Cáo	[3001] Cao
+潘	Pān	[3002] Pan
+谭	Tán	[3003] Tan
+姚	Yáo	[3004] Yao-2
+薛	Xuē	[3005] Xue
+彭	Péng	[3006] Peng
+冯	Féng	[3007] Feng
+魏	Wèi	[3008] Wei
+岳	Yuè	[3009] Yue
+莉	Lì	[3010] jasmine
+湘	Xiāng	[3011] Hunan Province
+甸	Diàn	[3012] outlying areas
+沧	Cāng	[3013] dark blue
+穆	Mù	[3014] reverent
+娜	Nà	[3015] na
+琼	Qióng	[3016] fine jade
+琳	Lín	[3017] gem
+钧	Jūn	[3018] 30 catties
