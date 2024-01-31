@@ -1,4 +1,4 @@
-//New Words/HSK1/HSK1_L01
+//New Characters/HSK1/HSK1_L01
 你
 好
 您
@@ -9,13 +9,13 @@
 没
 关
 系
-//New Words/HSK1/HSK1_L02
+//New Characters/HSK1/HSK1_L02
 谢
 客
 气
 再
 见
-//New Words/HSK1/HSK1_L03
+//New Characters/HSK1/HSK1_L03
 叫
 什
 么
@@ -29,7 +29,7 @@
 学
 生
 人
-//New Words/HSK1/HSK1_L04
+//New Characters/HSK1/HSK1_L04
 她
 谁
 的
@@ -42,7 +42,7 @@
 同
 朋
 友
-//New Words/HSK1/HSK1_L05
+//New Characters/HSK1/HSK1_L05
 家
 有
 口
@@ -55,7 +55,7 @@
 年
 多
 大
-//New Words/HSK1/HSK1_L06
+//New Characters/HSK1/HSK1_L06
 会
 说
 妈
@@ -66,7 +66,7 @@
 写
 怎
 读
-//New Words/HSK1/HSK1_L07
+//New Characters/HSK1/HSK1_L07
 请
 问
 天
@@ -80,7 +80,7 @@
 校
 看
 书
-//New Words/HSK1/HSK1_L08
+//New Characters/HSK1/HSK1_L08
 想
 喝
 茶
@@ -99,7 +99,7 @@
 钱
 快
 那
-//New Words/HSK1/HSK1_L09
+//New Characters/HSK1/HSK1_L09
 小
 猫
 在
@@ -111,7 +111,7 @@
 医
 院
 爸
-//New Words/HSK1/HSK1_L10
+//New Characters/HSK1/HSK1_L10
 桌
 上
 电
@@ -123,7 +123,7 @@
 后
 能
 坐
-//New Words/HSK1/HSK1_L11
+//New Characters/HSK1/HSK1_L11
 现
 点
 分
@@ -133,7 +133,7 @@
 回
 影
 住
-//New Words/HSK1/HSK1_L12
+//New Characters/HSK1/HSK1_L12
 样
 太
 热
@@ -147,7 +147,7 @@
 些
 水
 果
-//New Words/HSK1/HSK1_L13
+//New Characters/HSK1/HSK1_L13
 喂
 也
 习
@@ -160,7 +160,7 @@
 打
 话
 吧
-//New Words/HSK1/HSK1_L14
+//New Characters/HSK1/HSK1_L14
 东
 西
 一
@@ -175,7 +175,7 @@
 亮
 啊
 都
-//New Words/HSK1/HSK1_L15
+//New Characters/HSK1/HSK1_L15
 认
 识
 出
@@ -185,7 +185,7 @@
 听
 飞
 机
-//New Words/HSK2/HSK2_L01
+//New Characters/HSK2/HSK2_L01
 旅
 游
 得
@@ -201,7 +201,7 @@
 它
 眼
 睛
-//New Words/HSK2/HSK2_L02
+//New Characters/HSK2/HSK2_L02
 病
 每
 早
@@ -215,7 +215,7 @@
 息
 忙
 间
-//New Words/HSK2/HSK2_L03
+//New Characters/HSK2/HSK2_L03
 手
 表
 千
@@ -235,7 +235,7 @@
 颜
 左
 红
-//New Words/HSK2/HSK2_L04
+//New Characters/HSK2/HSK2_L04
 日
 乐
 接
@@ -250,7 +250,7 @@
 帮
 介
 绍
-//New Words/HSK2/HSK2_L05
+//New Characters/HSK2/HSK2_L05
 外
 准
 备
@@ -267,7 +267,7 @@
 思
 咖
 啡
-//New Words/HSK2/HSK2_L06
+//New Characters/HSK2/HSK2_L06
 门
 自
 行
@@ -280,7 +280,7 @@
 泳
 公
 斤
-//New Words/HSK2/HSK2_L07
+//New Characters/HSK2/HSK2_L07
 教
 室
 场
@@ -294,7 +294,7 @@
 过
 走
 到
-//New Words/HSK2/HSK2_L08
+//New Characters/HSK2/HSK2_L08
 让
 告
 诉
@@ -307,7 +307,7 @@
 白
 黑
 贵
-//New Words/HSK2/HSK2_L09
+//New Characters/HSK2/HSK2_L09
 从
 跳
 舞
@@ -319,7 +319,7 @@
 班
 懂
 完
-//New Words/HSK2/HSK2_L10
+//New Characters/HSK2/HSK2_L10
 课
 助
 别
@@ -329,7 +329,7 @@
 瓜
 正
 洗
-//New Words/HSK2/HSK2_L11
+//New Characters/HSK2/HSK2_L11
 唱
 歌
 男
@@ -339,7 +339,7 @@
 便
 宜
 姓
-//New Words/HSK2/HSK2_L12
+//New Characters/HSK2/HSK2_L12
 妻
 雪
 零
@@ -348,7 +348,7 @@
 进
 弟
 近
-//New Words/HSK2/HSK2_L13
+//New Characters/HSK2/HSK2_L13
 着
 拿
 铅
@@ -358,7 +358,7 @@
 棺
 直
 往
-//New Words/HSK2/HSK2_L14
+//New Characters/HSK2/HSK2_L14
 但
 虽
 然
@@ -366,14 +366,14 @@
 玩
 晴
 百
-//New Words/HSK2/HSK2_L15
+//New Characters/HSK2/HSK2_L15
 票
 火
 站
 更
 妹
 阴
-//New Words/HSK3/HSK3_L01
+//New Characters/HSK3/HSK3_L01
 周
 末
 算
@@ -390,7 +390,7 @@
 地
 图
 搬
-//New Words/HSK3/HSK3_L02
+//New Characters/HSK3/HSK3_L02
 腿
 疼
 脚
@@ -409,7 +409,7 @@
 其
 实
 瘦
-//New Words/HSK3/HSK3_L03
+//New Characters/HSK3/HSK3_L03
 爬
 山
 心
@@ -429,7 +429,7 @@
 舒
 花
 绿
-//New Words/HSK3/HSK3_L04
+//New Characters/HSK3/HSK3_L04
 赛
 照
 片
@@ -445,7 +445,7 @@
 市
 糕
 轻
-//New Words/HSK3/HSK3_L05
+//New Characters/HSK3/HSK3_L05
 发
 烧
 顾
@@ -460,7 +460,7 @@
 夏
 裙
 越
-//New Words/HSK3/HSK3_L06
+//New Characters/HSK3/HSK3_L06
 镜
 突
 清
@@ -474,7 +474,7 @@
 音
 园
 聊
-//New Words/HSK3/HSK3_L07
+//New Characters/HSK3/HSK3_L07
 银
 久
 趣
@@ -484,7 +484,7 @@
 半
 刻
 差
-//New Words/HSK3/HSK3_L08
+//New Characters/HSK3/HSK3_L08
 满
 梯
 层
@@ -500,7 +500,7 @@
 健
 康
 重
-//New Words/HSK3/HSK3_L09
+//New Characters/HSK3/HSK3_L09
 文
 定
 担
@@ -509,7 +509,7 @@
 参
 加
 响
-//New Words/HSK3/HSK3_L10
+//New Characters/HSK3/HSK3_L10
 矮
 历
 史
@@ -522,7 +522,7 @@
 环
 境
 附
-//New Words/HSK3/HSK3_L11
+//New Characters/HSK3/HSK3_L11
 馆
 借
 词
@@ -541,7 +541,7 @@
 瓶
 邮
 惯
-//New Words/HSK3/HSK3_L12
+//New Characters/HSK3/HSK3_L12
 阳
 李
 箱
@@ -550,7 +550,7 @@
 画
 需
 板
-//New Words/HSK3/HSK3_L13
+//New Characters/HSK3/HSK3_L13
 终
 于
 爷
@@ -563,7 +563,7 @@
 该
 活
 坏
-//New Words/HSK3/HSK3_L14
+//New Characters/HSK3/HSK3_L14
 扫
 干
 净
@@ -581,7 +581,7 @@
 简
 香
 蕉
-//New Words/HSK3/HSK3_L15
+//New Characters/HSK3/HSK3_L15
 留
 平
 提
@@ -599,7 +599,7 @@
 界
 街
 各
-//New Words/HSK3/HSK3_L16
+//New Characters/HSK3/HSK3_L16
 城
 如
 皮
@@ -611,7 +611,7 @@
 查
 刷
 牙
-//New Words/HSK3/HSK3_L17
+//New Characters/HSK3/HSK3_L17
 假
 邻
 居
@@ -627,7 +627,7 @@
 据
 况
 渴
-//New Words/HSK3/HSK3_L18
+//New Characters/HSK3/HSK3_L18
 向
 万
 嘴
@@ -639,7 +639,7 @@
 种
 奇
 怪
-//New Words/HSK3/HSK3_L19
+//New Characters/HSK3/HSK3_L19
 耳
 朵
 脸
@@ -653,12 +653,12 @@
 黄
 河
 船
-//New Words/HSK3/HSK3_L20
+//New Characters/HSK3/HSK3_L20
 被
 卡
 绩
 碗
-//New Words/HSK4/HSK4_L01
+//New Characters/HSK4/HSK4_L01
 律
 俩
 印
@@ -689,7 +689,7 @@
 幽
 默
 脾
-//New Words/HSK4/HSK4_L02
+//New Characters/HSK4/HSK4_L02
 交
 逛
 聚
@@ -713,7 +713,7 @@
 困
 及
 陪
-//New Words/HSK4/HSK4_L03
+//New Characters/HSK4/HSK4_L03
 挺
 紧
 招
@@ -737,7 +737,7 @@
 断
 与
 约
-//New Words/HSK4/HSK4_L04
+//New Characters/HSK4/HSK4_L04
 份
 全
 赚
@@ -764,7 +764,7 @@
 甚
 至
 任
-//New Words/HSK4/HSK4_L05
+//New Characters/HSK4/HSK4_L05
 具
 沙
 折
@@ -792,7 +792,7 @@
 尤
 何
 寄
-//New Words/HSK4/HSK4_L06
+//New Characters/HSK4/HSK4_L06
 汁
 售
 货
@@ -815,7 +815,7 @@
 例
 降
 低
-//New Words/HSK4/HSK4_L07
+//New Characters/HSK4/HSK4_L07
 血
 擦
 估
@@ -845,7 +845,7 @@
 肚
 恼
 掉
-//New Words/HSK4/HSK4_L08
+//New Characters/HSK4/HSK4_L08
 巧
 克
 亲
@@ -864,7 +864,7 @@
 态
 此
 科
-//New Words/HSK4/HSK4_L09
+//New Characters/HSK4/HSK4_L09
 饼
 坚
 弃
@@ -882,7 +882,7 @@
 许
 区
 暂
-//New Words/HSK4/HSK4_L10
+//New Characters/HSK4/HSK4_L10
 拜
 母
 永
@@ -906,7 +906,7 @@
 橡
 糖
 案
-//New Words/HSK4/HSK4_L11
+//New Characters/HSK4/HSK4_L11
 厉
 莲
 阅
@@ -926,7 +926,7 @@
 示
 养
 彩
-//New Words/HSK4/HSK4_L12
+//New Characters/HSK4/HSK4_L12
 规
 死
 惜
@@ -941,7 +941,7 @@
 误
 仔
 达
-//New Words/HSK4/HSK4_L13
+//New Characters/HSK4/HSK4_L13
 京
 剧
 演
@@ -965,7 +965,7 @@
 稍
 微
 省
-//New Words/HSK4/HSK4_L14
+//New Characters/HSK4/HSK4_L14
 毛
 巾
 膏
@@ -993,7 +993,7 @@
 桶
 美
 丽
-//New Words/HSK4/HSK4_L15
+//New Characters/HSK4/HSK4_L15
 弹
 钢
 琴
@@ -1021,7 +1021,7 @@
 骄
 傲
 羞
-//New Words/HSK4/HSK4_L16
+//New Characters/HSK4/HSK4_L16
 博
 签
 传
@@ -1041,7 +1041,7 @@
 虎
 输
 尊
-//New Words/HSK4/HSK4_L17
+//New Characters/HSK4/HSK4_L17
 凉
 云
 播
@@ -1060,7 +1060,7 @@
 洋
 列
 梦
-//New Words/HSK4/HSK4_L18
+//New Characters/HSK4/HSK4_L18
 落
 技
 秒
@@ -1082,7 +1082,7 @@
 纪
 局
 封
-//New Words/HSK4/HSK4_L19
+//New Characters/HSK4/HSK4_L19
 饺
 刀
 破
@@ -1105,7 +1105,7 @@
 禁
 止
 座
-//New Words/HSK4/HSK4_L20
+//New Characters/HSK4/HSK4_L20
 油
 航
 登

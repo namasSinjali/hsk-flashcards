@@ -1,4 +1,4 @@
-﻿//Remembering Simplified Hanzi/RSH1_01
+//Remembering Simplified Hanzi/RSH1_01
 一	yī	[1] one
 二	èr	[2] two
 三	sān	[3] three
